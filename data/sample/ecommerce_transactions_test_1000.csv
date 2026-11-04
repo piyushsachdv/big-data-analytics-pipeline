@@ -1,0 +1,1006 @@
+Order_ID,Customer_ID,Customer_Name,Product,Category,Quantity,Unit_Price,Order_Date,Region,Payment_Method,Order_Status
+ORD07000001,CUST000057,Sai Malhotra,Shoes,Fashion,1,3748.64,2026-10-29,North,UPI,Cancelled
+ORD07000002,CUST000321,Ayaan Patel,Football,Sports,1,598.14,2026-01-07,East,Net Banking,Delivered
+ORD07000003,CUST000231,Aadhya Gupta,Smartwatch,Electronics,2,15166.21,2025-05-22,North,Debit Card,Delivered
+ORD07000004,CUST000245,Krishna Sharma,Shoes,Fashion,2,1097.82,2025-09-12,South,Cash on Delivery,Delivered
+ORD07000005,CUST000062,Krishna Verma,Laptop,Electronics,1,84877.13,2026-06-21,South,Net Banking,Returned
+ORD07000006,CUST000123,Meera Shah,Smartwatch,Electronics,3,5990.43,2025-10-03,South,Credit Card,Shipped
+ORD07000007,CUST000158,Krishna Singh,Cricket Bat,Sports,2,5184.51,2026-06-22,North,Cash on Delivery,Delivered
+ORD07000008,CUST000186,Sai Kapoor,Cookware Set,Home and Kitchen,-3,3330.62,2026-01-05,Central,Credit Card,Delivered
+ORD07000009,CUST000269,Aarav Shah,Fiction Book,Books,3,752.13,2025-02-11,East,Credit Card,Cancelled
+ORD07000010,CUST000025,Reyansh Malhotra,Cookware Set,Home and Kitchen,1,3475.71,2025-02-09,East,Debit Card,Processing
+ORD07000011,CUST000045,Meera Iyer,T-Shirt,Fashion,1,1469.83,2025-12-15,East,Credit Card,Delivered
+ORD07000012,CUST000367,Ayaan Patel,Football,Sports,3,1716.51,2026-07-18,East,Cash on Delivery,Delivered
+ORD07000013,CUST000213,Priya Gupta,Headphones,Electronics,2,4784.28,2025-12-07,Central,Net Banking,Shipped
+ORD07000014,CUST000309,Arjun Reddy,Programming Book,Books,1,1005.3,2026-05-20,South,Cash on Delivery,Shipped
+ORD07000015,CUST000077,Ira Sharma,Perfume,Beauty,1,2982.66,2025-02-10,West,Credit Card,Shipped
+ORD07000016,,Saanvi Sharma,Laptop,Electronics,3,85707.27,2026-10-30,Central,Net Banking,Delivered
+ORD07000017,CUST000148,Priya Joshi,Smartphone,Electronics,2,22166.09,2025-03-03,North,Cash on Delivery,Shipped
+ORD07000018,CUST000198,Reyansh Patel,Shoes,Fashion,1,5484.71,2025-09-07,South,Net Banking,Returned
+ORD07000019,CUST000182,Aarav Reddy,Perfume,Beauty,3,3193.62,2026-01-02,Central,Net Banking,Delivered
+ORD07000020,CUST000209,Ishaan Sharma,T-Shirt,Fashion,-4,1116.39,2026-08-08,Central,Debit Card,Delivered
+ORD07000021,CUST000195,Ishaan Patel,Hair Dryer,Beauty,2,1582.43,2025-05-30,South,Net Banking,Delivered
+ORD07000022,CUST000224,Ananya Kumar,Skincare Kit,Beauty,1,1368.69,2026-02-17,East,Net Banking,Delivered
+ORD07000023,CUST000359,Vihaan Shah,Cricket Bat,Sports,1,2027.1,2026-05-30,West,Credit Card,Delivered
+ORD07000024,CUST000252,Ayaan Malhotra,Laptop,Electronics,2,80110.94,2025-07-28,East,Credit Card,Delivered
+ORD07000025,CUST000284,Kavya Nair,Smartphone,Electronics,3,36353.58,2025-01-02,West,Cash on Delivery,Delivered
+ORD07000026,CUST000165,Myra Sharma,Smartphone,Electronics,4,33603.89,2025-10-06,South,UPI,Delivered
+ORD07000027,CUST000179,Ishaan Shah,Laptop,Electronics,1,87718.45,2025-12-28,East,Credit Card,Cancelled
+ORD07000028,CUST000316,Priya Patel,Smartphone,Electronics,1,47558.21,2025-10-02,South,Debit Card,Shipped
+ORD07000029,CUST000069,Ishaan Singh,Vacuum Cleaner,Home and Kitchen,1,11555.45,2026-10-08,West,Net Banking,Delivered
+ORD07000030,CUST000301,Diya Malhotra,Smartphone,Electronics,2,73753.12,02/09/2025,Central,Cash on Delivery,Delivered
+ORD07000031,CUST000261,Aarav Reddy,Headphones,Electronics,2,2464.6,2026-02-13,South,UPI,Delivered
+ORD07000032,CUST000261,Aadhya Das,Football,Sports,1,1988.01,2025-02-16,North,Credit Card,Delivered
+ORD07000033,CUST000033,Vihaan Gupta,Cookware Set,Home and Kitchen,2,3649.33,2025-02-26,West,UPI,Delivered
+ORD07000034,CUST000334,Aarav Sharma,Smartwatch,Electronics,1,10451.51,2025-05-12,South,UPI,Delivered
+ORD07000035,CUST000340,Aadhya Shah,Smartwatch,Electronics,2,7505.06,2026-03-25,West,,Delivered
+ORD07000036,CUST000112,Arjun Sharma,T-Shirt,Fashion,4,616.13,2025-03-16,South,UPI,Delivered
+ORD07000037,CUST000246,Aadhya Das,Smartphone,Electronics,3,64439.21,2026-02-26,North,Debit Card,Returned
+ORD07000038,CUST000229,Meera Singh,Shoes,Fashion,1,4385.5,2025-08-15,South,Cash on Delivery,Delivered
+ORD07000039,CUST000049,Aadhya Reddy,Shoes,Fashion,4,2697.32,2025-03-28,South,Credit Card,Delivered
+ORD07000040,CUST000266,Ananya Sharma,T-Shirt,Fashion,1,1107.36,2025-04-11,North,Debit Card,Delivered
+ORD07000041,CUST000003,Vivaan Singh,Football,Sports,2,1559.24,2026-01-18,West,UPI,Delivered
+ORD07000042,CUST000068,Diya Kapoor,Mixer,Home and Kitchen,1,4987.04,2026-02-14,Central,UPI,Processing
+ORD07000043,CUST000187,Arjun Kapoor,Vacuum Cleaner,Home and Kitchen,3,11471.59,2026-02-23,North,UPI,Returned
+ORD07000044,CUST000057,Ira Kapoor,Mixer, home and kitchen ,2,4618.13,2025-03-20,East,Debit Card,Delivered
+ORD07000045,CUST000026,Krishna Joshi,Headphones,Electronics,3,1583.73,2026-05-14,Central,Debit Card,Returned
+ORD07000046,CUST000061,Sai Das,Smartphone,Electronics,1,54438.48,2026-04-24,South,Net Banking,Processing
+ORD07000047,CUST000008,Vivaan Joshi,Smartphone,Electronics,2,42625.14,2025-03-09,North,Cash on Delivery,Shipped
+ORD07000048,CUST000045,Ananya Verma,Jeans,Fashion,1,-511.38,2026-05-10,West,UPI,Delivered
+ORD07000049,CUST000312,Ira Mehta,Hair Dryer,Beauty,1,4242.89,2025-01-17,North,Cash on Delivery,Delivered
+ORD07000050,CUST000236,Vivaan Kapoor,Headphones,Electronics,5,7056.21,2026-09-29,Central,Credit Card,Cancelled
+ORD07000051,CUST000031,Priya Mehta,Skincare Kit,Beauty,3,2556.27,2026-07-04,North,Cash on Delivery,Delivered
+ORD07000052,CUST000143,Meera Nair,Hair Dryer,Beauty,1,1966.07,2025-08-17,Central,Credit Card,Delivered
+ORD07000053,CUST000088,Saanvi Malhotra,Laptop,Electronics,3,57455.78,2026-07-13,North,Credit Card,Delivered
+ORD07000054,CUST000121,Meera Gupta,Smartphone,Electronics,6,83403.1,2025-05-29,West,Cash on Delivery,Processing
+ORD07000055,CUST000268,Reyansh Shah,Smartwatch,Electronics,2,1931.59,2025-06-26,South,Credit Card,Delivered
+ORD07000056,CUST000153,Riya Nair,Laptop,Electronics,1,58413.25,2026-05-28,West,UPI,Shipped
+ORD07000057,CUST000302,Arjun Kumar,Mixer,Home and Kitchen,-1,6112.59,2026-02-12,East,UPI,Delivered
+ORD07000058,CUST000247,Vihaan Mehta,Shoes,Fashion,6,3752.37,2026-10-04,West,UPI,Delivered
+ORD07000059,CUST000048,Aadhya Mehta,Laptop,Electronics,2,66417.6,2025-12-20,Central,Debit Card,Delivered
+ORD07000060,CUST000165,Aditya Iyer,Mixer,Home and Kitchen,1,3124.68,2026-08-24,North,Net Banking,Delivered
+ORD07000061,CUST000333,Krishna Nair,Cookware Set,Home and Kitchen,4,3807.01,2025-02-21,West,Net Banking,Shipped
+ORD07000062,CUST000224,Vihaan Gupta,Smartphone,Electronics,1,21065.27,2025-08-17,North,UPI,Delivered
+ORD07000063,CUST000194,Meera Joshi,Cookware Set,Home and Kitchen,5,4587.26,2026-04-29,West,Net Banking,Delivered
+ORD07000064,CUST000327,Aarav Sharma,Mixer,Home and Kitchen,1,1829.29,2026-03-04,South,Credit Card,Delivered
+ORD07000065,CUST000368,Krishna Kumar,Laptop,Electronics,1,74411.09,2026-09-10,East,Net Banking,Delivered
+ORD07000066,,Aditya Shah,Cookware Set,Home and Kitchen,4,1226.33,2025-01-30, Central ,Debit Card,Processing
+ORD07000067,CUST000232,Riya Patel,Shoes,Fashion,1,3125.31,2025-11-21,Central,Debit Card,Delivered
+ORD07000068,CUST000202,Myra Reddy,Fiction Book,Books,2,665.9,2025-07-23,East,UPI,Delivered
+ORD07000069,CUST000204,Riya Iyer,Cookware Set,Home and Kitchen,1,6524.19,2026-08-14,Central,Debit Card,Delivered
+ORD07000070,CUST000057,Diya Shah,Perfume,Beauty,3,3618.61,2026-08-30,East,Credit Card,Delivered
+ORD07000071,CUST000065,Myra Singh,Football,Sports,1,1654.63,2026-07-04,East,Debit Card,Delivered
+ORD07000072,CUST000057,Priya Gupta,Academic Book,Books,3,1146.94,2026-03-06,South,,Shipped
+ORD07000073,CUST000086,Ira Kapoor,Jacket,Fashion,2,1735.41,2025-09-12,North,Cash on Delivery,Delivered
+ORD07000074,CUST000104,Reyansh Malhotra,Jeans,Fashion,1,2104.2,2026-09-30,East,Cash on Delivery,Delivered
+ORD07000075,CUST000156,Diya Iyer,Yoga Mat,Sports,3,886.29,2025-07-13,North,Cash on Delivery,Delivered
+ORD07000076,CUST000253,Aditya Verma,Smartwatch,Electronics,2,16922.06,2025-07-02,South,Net Banking,Delivered
+ORD07000077,CUST000347,Ishaan Malhotra,Jeans,Fashion,1,2936.18,2026-02-24,South,Credit Card,Delivered
+ORD07000078,CUST000114,Ananya Singh,Cookware Set,Home and Kitchen,2,5777.43,2026-01-18,North,UPI,Delivered
+ORD07000079,CUST000367,Priya Shah,T-Shirt,Fashion,6,1395.52,2025-05-03,North,Debit Card,Delivered
+ORD07000080,CUST000362,Ishaan Patel,Vacuum Cleaner,Home and Kitchen,3,17920.49,2025-11-25,East,Credit Card,Delivered
+ORD07000081,CUST000211,Riya Kumar,Cricket Bat,Sports,1,3600.82,2026-01-14,Central,Credit Card,Shipped
+ORD07000082,CUST000276,Aarav Singh,Shoes,Fashion,1,1463.06,2026-02-15,South,Credit Card,Delivered
+ORD07000083,CUST000068,Saanvi Singh,Mixer,Home and Kitchen,4,2227.69,2026-08-27,West,Net Banking,Processing
+ORD07000084,CUST000005,Kavya Gupta,Shoes,Fashion,4,1942.7,2026-02-17,Central,Cash on Delivery,Delivered
+ORD07000085,CUST000274,Saanvi Reddy, Smartwatch ,Electronics,1,3417.33,2026-05-19,East,Cash on Delivery,Delivered
+ORD07000086,CUST000060,,Smartwatch,Electronics,3,6278.09,2026-05-13,South,Cash on Delivery,Processing
+ORD07000087,CUST000356,Meera Das,Jeans,Fashion,2,820.89,not-a-date,East,Net Banking,Delivered
+ORD07000088,CUST000275,Vivaan Das,Smartwatch,Electronics,3,1517.07,2025-04-12,South,,Returned
+ORD07000089,CUST000371,Aditya Joshi,Laptop,Electronics,6,58840.63,2026-07-20,South,Credit Card,Delivered
+ORD07000090,CUST000370,Aadhya Kapoor,Jacket,Fashion,1,5978.43,2026-01-23,South,Debit Card,Delivered
+ORD07000091,CUST000068,Ananya Shah,Cricket Bat,Sports,2,1222.98,2025-05-15,West,Cash on Delivery,Delivered
+ORD07000092,CUST000150,Arjun Kapoor,Hair Dryer,Beauty,6,2532.1,2025-11-14,Central,Cash on Delivery,Delivered
+ORD07000093,CUST000166,Sai Malhotra,Perfume,Beauty,3,2396.64,2026-08-11,South,UPI,Shipped
+ORD07000094,CUST000278,Vivaan Malhotra,Football,Sports,3,1308.05,2025-05-24,West,UPI,Delivered
+ORD07000095,CUST000066,Diya Kumar,Smartphone,Electronics,-2,62690.83,2026-09-04,West,Credit Card,Processing
+ORD07000096,,Aadhya Kapoor,Headphones,Electronics,1,10255.39,2025-07-20,South,Cash on Delivery,Processing
+ORD07000097,,Myra Reddy,Academic Book,Books,6,602.37,2025-06-02,Central,Cash on Delivery,Delivered
+ORD07000098,CUST000380,Myra Gupta,Shoes,Fashion,1,1576.5,2025-04-08,East,Net Banking,Delivered
+ORD07000099,CUST000164,Meera Reddy,T-Shirt,Fashion,3,671.94,2026-04-03,Central,Credit Card,Shipped
+ORD07000100,CUST000274,Aditya Kapoor,Shoes,Fashion,2,4739.47,2025-02-27,Central,Net Banking,Delivered
+ORD07000101,CUST000188,Vihaan Mehta,Vacuum Cleaner,Home and Kitchen,3,15517.68,2025-10-23,South,Credit Card,Delivered
+ORD07000102,CUST000078,Saanvi Patel,Football,Sports,2,870.89,2026-08-01,North,Credit Card,Delivered
+ORD07000103,CUST000186,Krishna Reddy,Laptop,Electronics,1,78499.5,2025-06-01,East,UPI,Delivered
+ORD07000104,CUST000217,Arjun Verma,Shoes,Fashion,1,4397.67,2025-07-13,East,UPI,Shipped
+ORD07000105,CUST000296,Aadhya Kapoor,T-Shirt, fashion ,1,964.08,2026-01-05,Central,Cash on Delivery,Delivered
+ORD07000106,CUST000175,Diya Kapoor,Skincare Kit,Beauty,1,2481.48,2025-06-22,East,,Delivered
+ORD07000107,CUST000053,Sai Iyer,Vacuum Cleaner,Home and Kitchen,1,12268.13,2025-12-19,South,Debit Card,Shipped
+ORD07000108,CUST000280,Ayaan Reddy,Laptop,Electronics,4,78444.55,2026-03-14,South,Net Banking,Delivered
+ORD07000109,CUST000144,Ananya Verma,Laptop,Electronics,1,46766.76,2025-05-18,North,Net Banking,Delivered
+ORD07000110,CUST000064,Sai Patel,Cookware Set,HOME AND KITCHEN,1,2223.05,2026-09-25,Central,Cash on Delivery,Delivered
+ORD07000111,CUST000327,Aadhya Gupta,Academic Book,Books,2,1783.04,2025-08-05,East,Net Banking,Delivered
+ORD07000112,CUST000094,Ishaan Malhotra,Cookware Set,Home and Kitchen,1,6087.53,2025-08-02,North,Credit Card,Delivered
+ORD07000113,CUST000248,Saanvi Das,Smartwatch,Electronics,3,12996.59,2025-06-19,Central,Cash on Delivery,Delivered
+ORD07000114,CUST000132,Diya Gupta,Hair Dryer,Beauty,2,1831.53,2026-08-14,West,Credit Card,Shipped
+ORD07000115,CUST000321,Aadhya Mehta,Yoga Mat,Sports,6,540.5,2026-10-24,Central,UPI,Delivered
+ORD07000116,CUST000027,Aadhya Joshi,Mixer,Home and Kitchen,3,5032.12,2025-10-08,South,Cash on Delivery,Delivered
+ORD07000117,CUST000283,Kavya Joshi,Football,Sports,1,415.2,2025-08-14,South,Credit Card,Delivered
+ORD07000118,CUST000076,Krishna Das,Shoes,Fashion,3,5002.39,2026-07-21,East,Net Banking,Delivered
+ORD07000119,CUST000225,Kavya Reddy,Cricket Bat,Sports,1,5139.88,2026-10-15,East,Net Banking,Delivered
+ORD07000120,CUST000140,Ananya Das,Academic Book,Books,3,1065.85,2026-08-19,North,Net Banking,Delivered
+ORD07000121,CUST000353,Sai Joshi,Smartphone,Electronics,1,19510.09,2025-08-31,Central,Net Banking,Processing
+ORD07000122,CUST000309,Meera Patel,Hair Dryer,Beauty,1,1174.62,2026-07-10,West,Debit Card,Returned
+ORD07000123,CUST000208,Reyansh Gupta,Laptop,Electronics,1,89663.11,2026-07-21,North,Cash on Delivery,Delivered
+ORD07000124,CUST000086,Priya Kumar,Academic Book,Books,4,466.31,2025-05-18,Central,Credit Card,Shipped
+ORD07000125,CUST000023,Riya Patel,Yoga Mat,Sports,1,1084.28,2026-09-25,East,Credit Card,Delivered
+ORD07000126,CUST000205,Riya Malhotra,Perfume,Beauty,-4,786.85,2026-05-22,West,Debit Card,Processing
+ORD07000127,CUST000048,Aditya Mehta,Programming Book,Books,1,1582.83,2025-12-21,West,UPI,Shipped
+ORD07000128,CUST000074,Reyansh Mehta,Laptop,Electronics,1,57769.45,2026-07-02,West,UPI,Delivered
+ORD07000129,CUST000024,Aadhya Kapoor,Headphones,Electronics,1,4797.19,2025-04-08,South,UPI,Shipped
+ORD07000130,CUST000374,Krishna Malhotra,Programming Book,Books,2,1715.39,2025-07-20,North,Cash on Delivery,Delivered
+ORD07000131,CUST000137,Diya Sharma, Hair Dryer ,Beauty,3,4133.39,2025-02-12,South,Debit Card,Delivered
+ORD07000132,CUST000167,Vihaan Iyer,Mixer,Home and Kitchen,2,3009.88,2025-05-01,South,Cash on Delivery,Delivered
+ORD07000133,CUST000162,Arjun Gupta,Mixer,Home and Kitchen,1,1414.21,2025-11-20,South,Net Banking,Delivered
+ORD07000134,CUST000186,Vihaan Das,Jacket,Fashion,1,2949.19,2026-02-19,South,Net Banking,Cancelled
+ORD07000135,CUST000131,Myra Singh,Jeans,Fashion,2,2764.0,2026-04-28,Central,Net Banking,Returned
+ORD07000136,CUST000243,Priya Iyer,Jeans,Fashion,1,2696.2,2025-10-17,West,Cash on Delivery,Delivered
+ORD07000137,CUST000221,Priya Shah,Cookware Set,Home and Kitchen,1,6127.1,2025-11-09,South,Debit Card,Delivered
+ORD07000138,CUST000159,Arjun Das,Mixer,Home and Kitchen,1,4057.0,2025-12-06,East,UPI,Delivered
+ORD07000139,CUST000195,Ayaan Iyer,Jacket,Fashion,1,5155.99,2026-06-10,North,UPI,Delivered
+ORD07000140,CUST000164,Ira Mehta,Skincare Kit,Beauty,2,2975.51,2026-10-23,North,Debit Card,Delivered
+ORD07000141,CUST000201,Aditya Verma,Skincare Kit,Beauty,5,2578.19,2025-08-25,South,Net Banking,Shipped
+ORD07000142,CUST000336,Riya Kapoor,Jacket,Fashion,2,5393.67,2026-02-03,East,Debit Card,Delivered
+ORD07000143,CUST000039,Aditya Mehta,Headphones,Electronics,1,2988.15,2025-01-10,Central,Credit Card,Returned
+ORD07000144,CUST000163,Vihaan Mehta,T-Shirt,Fashion,1,373.82,2026-06-14,West,Credit Card,Delivered
+ORD07000145,CUST000010,Sai Mehta,Smartphone,Electronics,2,30235.84,2026-09-07,North,Cash on Delivery,Delivered
+ORD07000146,CUST000139,Riya Reddy,Laptop,Electronics,1,79972.57,2025-07-22,West,Cash on Delivery,Delivered
+ORD07000147,CUST000118,Reyansh Patel,Laptop,Electronics,1,89671.91,2025-11-25,East,Net Banking,Delivered
+ORD07000148,CUST000247,Krishna Kumar,Jacket,Fashion,1,5096.48,2025-05-27,Central,Credit Card,Delivered
+ORD07000149,CUST000013,Aditya Verma,Jeans,Fashion,1,1288.3,2025-11-18,Central,Net Banking,Delivered
+ORD07000150,CUST000167,Sai Verma,T-Shirt,Fashion,1,619.02,2026-04-05,Central,Debit Card,Delivered
+ORD07000151,CUST000207,Arjun Malhotra,Fiction Book,Books,2,264.71,2025-03-03,Central,Credit Card,Delivered
+ORD07000152,,Kavya Sharma,Football,Sports,1,779.63,2026-08-03,East,UPI,Delivered
+ORD07000153,CUST000329,Priya Iyer,Perfume,Beauty,2,5197.18,2026-08-26,East,Credit Card,Delivered
+ORD07000154,CUST000169,Priya Joshi,Cricket Bat,Sports,2,3132.43,2025-11-25,East,UPI,Delivered
+ORD07000155,CUST000228,Vivaan Singh,Yoga Mat,Sports,6,1333.13,2025-08-07,East,UPI,Processing
+ORD07000156,CUST000354,Myra Kapoor,Smartphone,Electronics,6,37303.48,2025-12-30,North,Debit Card,Delivered
+ORD07000157,CUST000283,Krishna Patel,Jacket,Fashion,1,2134.1,2025-07-05,West,Credit Card,Delivered
+ORD07000158,CUST000371,Ayaan Das,Smartwatch,Electronics,1,4800.47,2026-05-24,North,Credit Card,Cancelled
+ORD07000159,CUST000116,Priya Joshi,Vacuum Cleaner,Home and Kitchen,1,19333.87,2025-08-21,North,Credit Card,Delivered
+ORD07000160,CUST000261,Riya Iyer,Fiction Book,Books,4,614.46,2026-10-27,East,Credit Card,Delivered
+ORD07000161,CUST000131,Ananya Verma,Vacuum Cleaner,Home and Kitchen,2,8900.61,2025-04-24,Central,Net Banking,Delivered
+ORD07000162,CUST000292,Sai Joshi,T-Shirt,Fashion,1,1484.82,2026-09-22,Central,Net Banking,Delivered
+ORD07000163,CUST000371,Saanvi Patel,Programming Book,Books,3,877.33,2025-04-11,West,Net Banking,Delivered
+ORD07000164,CUST000346,Ananya Sharma,Smartphone,Electronics,4,78421.36,2026-01-18,West,UPI,Delivered
+ORD07000165,CUST000235,Ishaan Verma,Football,Sports,1,1116.41,2025-09-15,East,UPI,Cancelled
+ORD07000166,CUST000022,Myra Reddy,Fiction Book,Books,2,875.58,2025-03-15,Central,Cash on Delivery,Processing
+ORD07000167,CUST000231,Aadhya Gupta,Skincare Kit,Beauty,1,1861.51,2025-06-20,South,Credit Card,Delivered
+ORD07000168,CUST000132,Kavya Kapoor,Shoes,Fashion,2,1913.53,2025-10-20,West,Cash on Delivery,Delivered
+ORD07000169,CUST000179,Aadhya Singh, Mixer ,Home and Kitchen,1,4923.63,2026-03-13,East,Cash on Delivery,Delivered
+ORD07000170,CUST000237,Meera Kapoor,Jacket,Fashion,3,5901.76,2026-10-28,South,Cash on Delivery,Delivered
+ORD07000171,CUST000015,Riya Singh,Skincare Kit,Beauty,2,1845.21,2025-01-03,Central,Debit Card,Delivered
+ORD07000172,CUST000292,Myra Joshi,Laptop,Electronics,3,49127.77,2026-01-16,East,Debit Card,Delivered
+ORD07000173,CUST000258,Priya Gupta,Cookware Set,Home and Kitchen,1,4660.1,2026-02-11,South,Debit Card,Delivered
+ORD07000174,CUST000291,Vivaan Sharma, Headphones ,Electronics,2,9109.49,2025-04-15,East,Debit Card,Delivered
+ORD07000175,CUST000048,Ayaan Kumar,Mixer,Home and Kitchen,1,3017.23,2026-08-31,North,Cash on Delivery,Delivered
+ORD07000176,CUST000350,Krishna Kapoor,Programming Book,Books,1,941.23,2026-05-19,South,UPI,Delivered
+ORD07000177,CUST000052,Reyansh Mehta,Vacuum Cleaner,Home and Kitchen,2,8157.41,2025-08-05,East,Debit Card,Delivered
+ORD07000178,CUST000301,Kavya Reddy,Mixer,Home and Kitchen,4,1858.45,2025-08-25,South,UPI,Delivered
+ORD07000179,CUST000228,Ishaan Patel,Smartwatch,Electronics,1,2715.57,2026-07-12,South,Debit Card,Delivered
+ORD07000180,CUST000188,Saanvi Reddy,Jacket,Fashion,2,2322.23,2025-02-05,North,Credit Card,Delivered
+ORD07000181,CUST000323,Ananya Kapoor,Mixer,Home and Kitchen,1,2842.89,2026-02-01,South,UPI,Delivered
+ORD07000182,CUST000231,Aditya Malhotra,Shoes,Fashion,3,1667.89,2025-10-26,North,Cash on Delivery,Cancelled
+ORD07000183,CUST000267,Krishna Reddy,Perfume,Beauty,2,3740.03,2025-11-14,West,Cash on Delivery,Delivered
+ORD07000184,CUST000352,Ishaan Shah,Fiction Book,Books,3,843.62,2026-03-27,South,UPI,Returned
+ORD07000185,CUST000105,Arjun Kapoor,Yoga Mat,Sports,2,451.42,2025-12-16,West,Debit Card,Delivered
+ORD07000186,CUST000365,Reyansh Nair,Jacket,Fashion,3,1785.9,2025-11-04,Central,Cash on Delivery,Delivered
+ORD07000187,CUST000156,Aditya Gupta,Smartwatch,Electronics,2,2084.52,2026-10-28,North,Credit Card,Processing
+ORD07000188,CUST000090,Ishaan Kapoor,Headphones,Electronics,1,9983.55,2025-03-31,Central,Credit Card,Cancelled
+ORD07000189,CUST000073,Ayaan Das,Laptop,Electronics,5,52792.53,2026-01-11,North,Debit Card,Delivered
+ORD07000190,CUST000201,Vivaan Reddy,Cookware Set,Home and Kitchen,3,2425.18,2025-10-02,South,Cash on Delivery,Delivered
+ORD07000191,CUST000275,Arjun Das,Headphones,Electronics,4,8928.81,2025-05-23,West,Cash on Delivery,Delivered
+ORD07000192,CUST000276,Saanvi Verma,Headphones,Electronics,2,3767.04,2026-05-04,Central,Cash on Delivery,Shipped
+ORD07000193,CUST000161,,Football,Sports,2,939.92,2026-09-21,Central,Debit Card,Shipped
+ORD07000194,CUST000228,Aditya Mehta,Perfume,Beauty,2,3603.66,2025-08-25,South,UPI,Delivered
+ORD07000195,CUST000364,Myra Patel,Yoga Mat,Sports,1,1651.67,2026-07-27,West,Credit Card,Delivered
+ORD07000196,CUST000110,Saanvi Verma,Fiction Book,Books,3,237.55,2025-11-14,East,Net Banking,Delivered
+ORD07000197,CUST000309,Myra Reddy,Perfume,Beauty,3,2141.7,2026-03-06,East,Credit Card,Delivered
+ORD07000198,CUST000055,Vivaan Reddy,Football,Sports,2,1033.43,2025-01-21,Central,Net Banking,Delivered
+ORD07000199,CUST000191,Ananya Mehta,Academic Book,Books,2,902.13,2026-05-07,Central,Debit Card,Returned
+ORD07000200,CUST000328,Meera Patel,Academic Book,Books,6,985.55,2026-03-26,Central,Cash on Delivery,Delivered
+ORD07000201,CUST000009,Saanvi Sharma,Vacuum Cleaner,Home and Kitchen,1,6398.08,2025-05-07,South,Debit Card,Returned
+ORD07000202,CUST000239,Ishaan Malhotra,Hair Dryer,Beauty,4,2762.73,2026-01-31,West,Cash on Delivery,Shipped
+ORD07000203,CUST000257,Myra Malhotra,Headphones,Electronics,5,8995.25,2026-10-20,West,UPI,Delivered
+ORD07000204,CUST000092,Reyansh Singh,Jacket,Fashion,1,5856.57,2025-04-13,West,Credit Card,Shipped
+ORD07000205,CUST000005,Saanvi Kumar,Jacket,Fashion,1,3915.78,2026-10-04,West,Credit Card,Delivered
+ORD07000206,CUST000129,Saanvi Das,Vacuum Cleaner,Home and Kitchen,2,20051.03,2026-07-27,East,UPI,Delivered
+ORD07000207,CUST000243,Reyansh Verma,Mixer,Home and Kitchen,6,2556.13,2026-10-18,North,Credit Card,Shipped
+ORD07000208,CUST000274,Krishna Mehta,Cricket Bat,Sports,1,5350.09,2025-09-14,East,Net Banking,Cancelled
+ORD07000209,CUST000220,Priya Singh,Headphones,Electronics,4,9183.09,2025-09-27,North,Debit Card,Delivered
+ORD07000210,CUST000361,Aadhya Malhotra,Vacuum Cleaner,Home and Kitchen,2,16142.75,2026-06-06,East,Credit Card,Delivered
+ORD07000211,CUST000130,Priya Joshi,Headphones,Electronics,1,1589.4,2026-09-16,East,Cash on Delivery,Delivered
+ORD07000212,CUST000258,Reyansh Kumar,Shoes,Fashion,1,6888.25,2025-06-14,Central,UPI,Shipped
+ORD07000213,CUST000249,Kavya Verma,Mixer,Home and Kitchen,1,6423.2,2026-07-15,South,Debit Card,Shipped
+ORD07000214,CUST000304,Riya Malhotra,Cookware Set,Home and Kitchen,1,1494.62,2026-07-15,South,Net Banking,Delivered
+ORD07000215,CUST000232,Reyansh Verma,Smartphone,Electronics,4,33824.98,2025-09-25,East,Debit Card,Processing
+ORD07000216,CUST000032,Vihaan Reddy,T-Shirt,Fashion,4,1331.04,2025-04-02,East,Cash on Delivery,Returned
+ORD07000217,CUST000376,Ayaan Malhotra,Yoga Mat,Sports,2,445.08,2026-05-04,West,Cash on Delivery,Shipped
+ORD07000218,CUST000336,Aadhya Reddy,Cricket Bat,Sports,1,5996.13,2025-05-16,East,UPI,Delivered
+ORD07000219,CUST000066,Meera Iyer,Mixer,Home and Kitchen,2,1845.66,2026-04-29,Central,Net Banking,Processing
+ORD07000220,CUST000113,Krishna Iyer,Smartphone,Electronics,1,28722.09,2026-09-03,South,UPI,Delivered
+ORD07000221,CUST000056,Diya Mehta,Hair Dryer,Beauty,2,3298.1,2025-07-01,South,Credit Card,Delivered
+ORD07000222,CUST000073,Arjun Reddy,T-Shirt,Fashion,1,600.54,2025-11-15,North,Debit Card,Shipped
+ORD07000223,CUST000233,Sai Iyer,Cookware Set,Home and Kitchen,1,6532.89,2025-10-19,Central,Credit Card,Processing
+ORD07000224,CUST000236,Vivaan Patel,Vacuum Cleaner,Home and Kitchen,6,7460.19,2025-02-14,Central,Debit Card,Delivered
+ORD07000225,CUST000193,Ishaan Das,Jacket,Fashion,3,5161.51,2026-09-19,Central,Debit Card,Shipped
+ORD07000226,CUST000116,Ishaan Gupta,Smartwatch,Electronics,2,4419.44,2026-06-01,Central,Cash on Delivery,Shipped
+ORD07000227,CUST000183,Diya Kumar,Hair Dryer,Beauty,1,3411.82,2025-02-17,South,Net Banking,Delivered
+ORD07000228,CUST000162,Meera Nair,Cricket Bat,Sports,1,1185.05,2026-01-08,East,Net Banking,Delivered
+ORD07000229,CUST000331,Vihaan Shah,Jeans,Fashion,1,2138.21,2025-11-04,West,Debit Card,Shipped
+ORD07000230,CUST000032,Aarav Singh,T-Shirt,Fashion,3,1474.74,2026-10-02,Central,Credit Card,Shipped
+ORD07000231,CUST000276,Krishna Sharma,Cookware Set,Home and Kitchen,5,1220.16,2026-02-25,North,UPI,Shipped
+ORD07000232,CUST000139,Vivaan Patel,Perfume,Beauty,1,2177.28,2025-08-26,East,Debit Card,Delivered
+ORD07000233,CUST000083,Vihaan Reddy,Football,Sports,3,1476.34,2025-07-15,East,Credit Card,Delivered
+ORD07000234,CUST000029,Sai Singh,Smartwatch,Electronics,3,10824.17,2026-08-29,West,Net Banking,Returned
+ORD07000235,CUST000032,Diya Reddy,Yoga Mat,Sports,2,1044.59,2025-02-22,Central,UPI,Cancelled
+ORD07000236,CUST000139,Vivaan Gupta,Jeans,Fashion,1,938.44,2025-01-23,West,Debit Card,Delivered
+ORD07000237,CUST000068,Aditya Verma,Laptop,Electronics,1,0,2025-03-22,West,Credit Card,Shipped
+ORD07000238,CUST000077,Myra Das,Jeans,Fashion,3,1602.78,2025-08-25,North,UPI,Delivered
+ORD07000239,CUST000346,Arjun Malhotra,Headphones,Electronics,1,4906.8,2025-06-03,East,Credit Card,Delivered
+ORD07000240,CUST000053,Krishna Gupta,Jeans,Fashion,2,2949.74,2025-01-19,South,Credit Card,Delivered
+ORD07000241,CUST000336,Aarav Reddy,Smartwatch,Electronics,2,12779.2,2026-03-10,East,UPI,Delivered
+ORD07000242,CUST000022,Vihaan Joshi,Perfume,Beauty,3,1233.53,2026-10-05,West,Cash on Delivery,Delivered
+ORD07000243,,Saanvi Shah,Laptop,Electronics,2,84353.58,2025-06-09,North,Net Banking,Delivered
+ORD07000244,CUST000265,Myra Sharma,T-Shirt,Fashion,5,781.44,2025-02-02,Central,Cash on Delivery,Cancelled
+ORD07000245,CUST000268,Aditya Verma,Vacuum Cleaner,Home and Kitchen,1,15771.11,2025-09-29,Central,Credit Card,Delivered
+ORD07000246,CUST000129,Ira Malhotra,Fiction Book,Books,2,204.73,2025-09-23,South,UPI,Delivered
+ORD07000247,CUST000277,Priya Iyer,Headphones,Electronics,2,7976.16,2025-04-25,South,Debit Card,Cancelled
+ORD07000248,CUST000284,Reyansh Kapoor,Headphones,Electronics,2,8378.12,2025-12-07,Central,Cash on Delivery,Delivered
+ORD07000249,CUST000107,Sai Shah,Smartphone,Electronics,4,64098.11,2026-04-02,East,Credit Card,Delivered
+ORD07000250,CUST000199,Riya Malhotra,Football,Sports,1,1984.16,2026-07-29,North,Cash on Delivery,Delivered
+ORD07000251,CUST000201,Riya Verma,Jacket,Fashion,1,3539.47,not-a-date,Central,Credit Card,Delivered
+ORD07000252,CUST000241,Vihaan Mehta,Headphones,Electronics,1,6294.9,2025-07-11,Central,Credit Card,Delivered
+ORD07000253,CUST000358,Priya Kapoor,Jeans,Fashion,2,2959.29,2026-06-01,West,UPI,Delivered
+ORD07000254,CUST000118,Krishna Gupta,Football,Sports,1,1900.16,2025-07-20,North,UPI,Delivered
+ORD07000255,CUST000138,Ira Kapoor,Laptop,Electronics,2,90877.81,2025-12-15,North,Net Banking,Delivered
+ORD07000256,CUST000010,Aadhya Malhotra,Mixer,Home and Kitchen,1,2199.61,2025-01-16,South,Cash on Delivery,Shipped
+ORD07000257,CUST000070,Ira Iyer,Headphones,Electronics,1,1009.46,2025-11-04,East,Credit Card,Delivered
+ORD07000258,CUST000322,Vivaan Mehta,Skincare Kit,BEAUTY,1,1208.86,2026-10-31,South,Cash on Delivery,Delivered
+ORD07000259,CUST000132,Riya Verma,Shoes,Fashion,2,1205.19,2026-08-27,North,UPI,Delivered
+ORD07000260,CUST000273,Aarav Nair,Jeans,Fashion,1,2166.91,2025-09-05,South,Cash on Delivery,Returned
+ORD07000261,CUST000195,Arjun Joshi,Shoes,Fashion,2,5432.71,2026-08-17,North,UPI,Delivered
+ORD07000262,CUST000072,Aditya Kapoor,Smartphone,Electronics,2,42729.17,2025-01-14,North,Net Banking,Shipped
+ORD07000263,CUST000181,Riya Das,Smartphone,Electronics,1,44520.47,2025-01-15,North,UPI,Delivered
+ORD07000264,CUST000054,Priya Joshi,Vacuum Cleaner,Home and Kitchen,2,12311.87,2025-04-28,Central,Cash on Delivery,Delivered
+ORD07000265,CUST000330,Priya Das,Smartwatch,Electronics,2,5583.49,2026-02-05,Central,UPI,Delivered
+ORD07000266,CUST000083,Sai Mehta,Academic Book,Books,2,2095.83,2025-09-21,East,Net Banking,Returned
+ORD07000267,CUST000058,Arjun Verma,Perfume,Beauty,4,4745.05,2026-06-27,East,Cash on Delivery,Delivered
+ORD07000268,CUST000290,Vivaan Iyer,Academic Book,Books,1,473.22,2026-01-11,South,Debit Card,Processing
+ORD07000269,CUST000257,Kavya Joshi,Smartwatch, electronics ,2,11412.45,2025-06-29,South,Debit Card,Delivered
+ORD07000270,CUST000369,Aadhya Iyer,Smartwatch,Electronics,2,2582.49,2025-05-13,Central,Net Banking,Delivered
+ORD07000271,CUST000368,Ira Patel,Laptop,Electronics,2,89287.58,2026-05-23,Central,Debit Card,Delivered
+ORD07000272,CUST000028,Riya Das,Vacuum Cleaner,Home and Kitchen,1,21453.01,2025-05-28,East,UPI,Delivered
+ORD07000273,CUST000249,Krishna Verma,Smartwatch,Electronics,1,10089.91,2026-06-26,South,Debit Card,Delivered
+ORD07000274,CUST000366,Saanvi Kapoor,Headphones,Electronics,4,7370.98,2025-10-21,Central,Credit Card,Delivered
+ORD07000275,CUST000141,Reyansh Kapoor,Cricket Bat,Sports,5,1731.38,2026-08-14,North,Debit Card,Cancelled
+ORD07000276,CUST000180,Aarav Kumar,Cricket Bat,Sports,1,3836.64,2025-02-07,East,Cash on Delivery,Delivered
+ORD07000277,CUST000323,Sai Malhotra,Shoes,Fashion,1,2636.73,2025-02-04,Central,Debit Card,Shipped
+ORD07000278,CUST000322,Sai Singh,Headphones,Electronics,2,10880.25,2026-07-02,Central,Net Banking,Returned
+ORD07000279,CUST000186,Saanvi Joshi,Cookware Set,Home and Kitchen,4,6812.94,2026-03-30,North,UPI,Delivered
+ORD07000280,CUST000144,Myra Singh,Yoga Mat,Sports,2,1223.6,2025-06-07,South,Credit Card,Shipped
+ORD07000281,CUST000305,Meera Nair,Skincare Kit,Beauty,3,1759.63,2026-02-28,East,Debit Card,Processing
+ORD07000282,CUST000250,Kavya Gupta,Jacket,Fashion,1,5567.7,2025-09-06,Central,Net Banking,Returned
+ORD07000283,CUST000174,Kavya Patel,Jeans,Fashion,4,2564.41,2025-09-08,South,Credit Card,Delivered
+ORD07000284,CUST000006,Vivaan Reddy,Jacket,Fashion,1,4365.15,2025-09-15,East,Net Banking,Delivered
+ORD07000285,CUST000312,Vihaan Iyer,Jacket,Fashion,1,4906.34,2026-07-04,East,Net Banking,Delivered
+ORD07000286,CUST000094,Aditya Shah,Mixer,Home and Kitchen,2,4348.5,2025-06-03,West,Credit Card,Delivered
+ORD07000287,CUST000144,Vihaan Singh,Laptop,Electronics,5,43205.69,2026-08-15,South,Net Banking,Cancelled
+ORD07000288,CUST000152,Ananya Kumar,Smartwatch,Electronics,2,15183.19,2026-02-08,West,Debit Card,Shipped
+ORD07000289,CUST000009,Meera Shah,Jeans,Fashion,1,1174.35,2025-04-10,North,Cash on Delivery,Delivered
+ORD07000290,CUST000245,Meera Patel,Headphones,Electronics,3,970.02,2025-12-30,South,Cash on Delivery,Processing
+ORD07000291,CUST000274,Reyansh Shah,Hair Dryer,Beauty,1,2709.91,2026-04-12,Central,Net Banking,Cancelled
+ORD07000292,CUST000277,Priya Reddy,Cookware Set,Home and Kitchen,3,4094.13,2025-02-01,Central,Debit Card,Delivered
+ORD07000293,CUST000264,Aarav Kapoor,Fiction Book,Books,1,648.48,2025-07-03,North,Debit Card,Delivered
+ORD07000294,CUST000192,Ananya Malhotra,Cookware Set,Home and Kitchen,1,909.4,2026-03-08,West,UPI,Shipped
+ORD07000295,CUST000273,Meera Das,Mixer,Home and Kitchen,1,5294.49,2025-08-08,West,Net Banking,Shipped
+ORD07000296,CUST000073,Saanvi Mehta,Mixer,Home and Kitchen,1,4349.75,2026-10-01,East,UPI,Delivered
+ORD07000297,CUST000096,Ananya Singh,Perfume,Beauty,1,5069.7,2025-02-17,North,Credit Card,Cancelled
+ORD07000298,CUST000323,Kavya Reddy,Hair Dryer,Beauty,1,3835.49,2026-05-31,North,Cash on Delivery,Delivered
+ORD07000299,CUST000063,Ananya Joshi,Cookware Set,Home and Kitchen,2,6874.23,2026-03-13,Central,Cash on Delivery,Processing
+ORD07000300,CUST000368,Ayaan Kumar,Cricket Bat,Sports,2,3470.82,2026-07-14,South,UPI,Delivered
+ORD07000301,CUST000272,,Smartphone,Electronics,1,58877.58,2026-02-08,West,Debit Card,Delivered
+ORD07000302,CUST000146,Kavya Iyer,Shoes,Fashion,2,1656.38,2025-06-17,East,Debit Card,Delivered
+ORD07000303,CUST000231,Ira Das,Fiction Book,Books,1,828.48,2026-09-12,West,Cash on Delivery,Delivered
+ORD07000304,CUST000114,Ishaan Shah,Skincare Kit,Beauty,1,1622.5,2026-02-13,West,Debit Card,Delivered
+ORD07000305,CUST000211,Meera Malhotra,Shoes,Fashion,4,4654.52,2026-07-30,East,Net Banking,Delivered
+ORD07000306,CUST000348,,Laptop,Electronics,2,69002.35,2026-07-21,North,Credit Card,Delivered
+ORD07000307,CUST000078,Ayaan Joshi,Headphones,Electronics,1,7080.27,2026-03-19,East,Cash on Delivery,Delivered
+ORD07000308,CUST000036,Meera Verma,Fiction Book,Books,2,473.14,2025-04-21,South,Cash on Delivery,Delivered
+ORD07000309,CUST000336,Saanvi Gupta,Laptop,Electronics,2,71966.15,2025-02-15,Central,Debit Card,Shipped
+ORD07000310,CUST000319,Myra Verma,Laptop,Electronics,2,43973.76,2026-01-01,North,Credit Card,Delivered
+ORD07000311,CUST000182,Ayaan Nair,Programming Book,Books,3,983.86,2026-02-23,Central,Cash on Delivery,Delivered
+ORD07000312,CUST000151,Ananya Mehta,Cookware Set,Home and Kitchen,4,6264.64,2025-11-03,East,Debit Card,Delivered
+ORD07000313,CUST000211,Saanvi Malhotra,Smartwatch,Electronics,3,2760.79,2026-03-19,East,Net Banking,Delivered
+ORD07000314,CUST000275,Ayaan Kapoor,Hair Dryer,Beauty,1,3063.72,2025-10-14,West,UPI,Processing
+ORD07000315,CUST000352,Vihaan Shah,Smartwatch,Electronics,2,14161.15,2026-04-18,West,UPI,Shipped
+ORD07000316,CUST000007,Diya Mehta,Laptop,Electronics,6,83778.16,2026-07-28,Central,Net Banking,Delivered
+ORD07000317,CUST000214,Saanvi Kumar,T-Shirt,Fashion,2,853.79,2026-09-03,West,UPI,Delivered
+ORD07000318,CUST000356,Riya Singh,Headphones,Electronics,1,11426.5,2025-07-20,South,Credit Card,Cancelled
+ORD07000319,CUST000271,,Smartphone,Electronics,2,22083.27,2026-03-01,West,Net Banking,Returned
+ORD07000320,CUST000295,Vivaan Mehta,T-Shirt,Fashion,2,1256.64,2025-10-21,Central,Net Banking,Delivered
+ORD07000321,CUST000176,Ayaan Reddy,Laptop,Electronics,2,87326.2,2026-02-11,South,Cash on Delivery,Delivered
+ORD07000322,CUST000162,Ananya Singh,Academic Book,Books,2,2120.84,2026-08-24,North,Net Banking,Delivered
+ORD07000323,CUST000177,Meera Patel,Academic Book,Books,1,614.85,2025-09-11,West,Debit Card,Delivered
+ORD07000324,CUST000080,Ananya Kumar,Cookware Set,Home and Kitchen,1,1333.75,2025-02-02,North,Cash on Delivery,Delivered
+ORD07000325,CUST000129,Myra Nair,Skincare Kit,Beauty,3,2059.19,2025-09-22,South,Cash on Delivery,Delivered
+ORD07000326,CUST000091,Reyansh Das,Smartphone,Electronics,2,61115.02,2026-01-17,South,Debit Card,Delivered
+ORD07000327,CUST000213,Meera Shah,Headphones,Electronics,2,2916.46,2025-11-16,South,Credit Card,Shipped
+ORD07000328,CUST000169,Diya Kapoor,Shoes,Fashion,3,4546.15,24/02/2025,East,UPI,Delivered
+ORD07000329,CUST000247,Sai Iyer,Shoes,Fashion,3,2509.71,2026-05-31,South,UPI,Delivered
+ORD07000330,CUST000186,Ananya Patel,Jacket,Fashion,2,3300.57,2025-12-06,South,Credit Card,Delivered
+ORD07000331,CUST000085,Kavya Mehta,Yoga Mat,Sports,1,769.0,2026-08-31,West,Debit Card,Shipped
+ORD07000332,CUST000006,Ananya Verma,Jeans,Fashion,3,1192.24,2026-08-29,Central,Debit Card,Shipped
+ORD07000333,CUST000174,Arjun Mehta,Perfume,Beauty,4,1409.37,2026-01-10,West,Debit Card,Delivered
+ORD07000334,CUST000059,Aadhya Kumar,Shoes,Fashion,2,5235.73,2025-07-10,West,Debit Card,Delivered
+ORD07000335,CUST000208,Krishna Verma,Jeans,Fashion,1,1278.86,2025-08-14,East,Net Banking,Delivered
+ORD07000336,CUST000317,Kavya Joshi,Perfume,Beauty,-2,5526.98,2026-05-03,North,Debit Card,Delivered
+ORD07000337,CUST000329,Kavya Reddy,Academic Book,BOOKS,3,926.07,2025-09-21,South,Net Banking,Delivered
+ORD07000338,CUST000291,Krishna Joshi,Cricket Bat,Sports,1,1587.09,2026-07-11,South,Credit Card,Delivered
+ORD07000339,CUST000295,Myra Reddy,Shoes,Fashion,4,6336.97,2026-08-25,East,Cash on Delivery,Delivered
+ORD07000340,CUST000149,Meera Iyer,Shoes,Fashion,4,2895.2,2025-09-07,North,Debit Card,Delivered
+ORD07000341,CUST000094,Riya Sharma,Programming Book,Books,6,1502.41,2026-08-10,South,UPI,Shipped
+ORD07000342,CUST000131,Vivaan Patel,Perfume, beauty ,3,2672.58,2025-07-11, South ,Credit Card,Shipped
+ORD07000343,CUST000296,Ishaan Nair,T-Shirt,Fashion,1,582.38,2025-04-02,North,Net Banking,Delivered
+ORD07000344,CUST000227,Myra Singh,Football,Sports,1,735.74,2026-06-10,East,Debit Card,Processing
+ORD07000345,,Aarav Shah,Smartphone,Electronics,3,83282.21,2025-09-11,South,UPI,Delivered
+ORD07000346,CUST000026,Ishaan Reddy,Cricket Bat,Sports,1,4079.3,2025-02-13,South,UPI,Returned
+ORD07000347,CUST000157,Diya Joshi,Jeans,Fashion,2,1271.28,2026-08-29,South,Debit Card,Delivered
+ORD07000348,CUST000354,Vihaan Verma,Cookware Set,Home and Kitchen,4,6407.68,2025-12-25,North,Debit Card,Delivered
+ORD07000349,CUST000055,Riya Patel,T-Shirt,Fashion,3,728.1,2026-08-28,West,Cash on Delivery,Delivered
+ORD07000350,CUST000366,Kavya Joshi,Headphones,Electronics,3,1597.07,2025-03-05,North,UPI,Delivered
+ORD07000351,CUST000122,Ira Shah,Laptop,Electronics,1,54867.68,2025-11-27,West,Debit Card,Delivered
+ORD07000352,CUST000162,Saanvi Das,Mixer,Home and Kitchen,3,1204.04,2025-07-10,North,Cash on Delivery,Delivered
+ORD07000353,CUST000067,Saanvi Malhotra,T-Shirt,Fashion,4,903.5,2026-05-23,West,Debit Card,Delivered
+ORD07000354,CUST000043,Riya Joshi,Jeans,Fashion,2,1208.5,2026-02-15,Central,UPI,Delivered
+ORD07000355,CUST000328,Arjun Das,Football,Sports,2,603.62,2025-12-18,South,Credit Card,Cancelled
+ORD07000356,CUST000122,Aadhya Nair,Jeans,Fashion,3,938.24,2025-04-22,South,Net Banking,Delivered
+ORD07000357,CUST000378,Aadhya Kumar,Cookware Set,Home and Kitchen,1,3176.3,2026-07-01,North,Cash on Delivery,Shipped
+ORD07000358,CUST000069,Ananya Kumar,Football,Sports,1,1248.42,2026-10-11,North,Debit Card,Delivered
+ORD07000359,CUST000204,Arjun Patel,Smartphone,Electronics,1,63645.38,2026-04-05,East,Cash on Delivery,Delivered
+ORD07000360,CUST000187,Ayaan Patel,T-Shirt,Fashion,3,592.33,2025-11-07,West,Credit Card,Processing
+ORD07000361,,Vivaan Sharma,Jacket,Fashion,2,2263.87,2025-02-06,Central,Cash on Delivery,Delivered
+ORD07000362,CUST000065,Ayaan Kumar,Fiction Book,Books,3,397.06,2026-01-05,Central,Net Banking,Processing
+ORD07000363,CUST000030,Riya Singh,Yoga Mat,Sports,2,1404.75,2025-07-14,South,Credit Card,Delivered
+ORD07000364,CUST000119,Kavya Malhotra,Skincare Kit,Beauty,3,2117.14,2026-05-15,North,Credit Card,Delivered
+ORD07000365,CUST000105,Ishaan Nair,Smartwatch,Electronics,2,13754.37,2025-08-25,West,Cash on Delivery,Returned
+ORD07000366,CUST000282,Vihaan Mehta,Laptop,Electronics,1,81793.61,2026-08-13,East,Cash on Delivery,Delivered
+ORD07000367,CUST000289,Meera Kumar,Laptop,Electronics,2,82130.16,2026-03-11,South,Debit Card,Shipped
+ORD07000368,CUST000057,Riya Sharma,Jacket,Fashion,1,4708.23,2026-09-20,East,Cash on Delivery,Delivered
+ORD07000369,CUST000361,Ishaan Reddy,Cricket Bat,Sports,2,6234.86,2025-04-16,East,Debit Card,Delivered
+ORD07000370,CUST000366,Ayaan Verma,T-Shirt,Fashion,4,976.09,2026-09-12,Central,Debit Card,Delivered
+ORD07000371,CUST000073,Sai Joshi,Cricket Bat,Sports,5,3583.13,2025-12-10,West,Credit Card,Delivered
+ORD07000372,CUST000172,Diya Reddy,Jacket,Fashion,1,2028.73,2026-10-14,Central,Credit Card,Returned
+ORD07000373,CUST000331,Vivaan Patel,Skincare Kit,Beauty,4,1513.17,2026-03-18,North,Credit Card,Delivered
+ORD07000374,CUST000276,Aditya Gupta,Mixer,Home and Kitchen,1,4902.74,2025-07-06,Central,Net Banking,Shipped
+ORD07000375,CUST000181,Diya Gupta,Jacket,Fashion,1,3731.59,2025-08-05,Central,Credit Card,Shipped
+ORD07000376,CUST000180,Saanvi Joshi,Vacuum Cleaner,Home and Kitchen,2,10109.39,2026-07-22,West,Debit Card,Delivered
+ORD07000377,CUST000039,Ananya Iyer,Vacuum Cleaner,Home and Kitchen,2,14936.88,2025-10-08,North,UPI,Shipped
+ORD07000378,CUST000148,Ishaan Verma,Mixer,Home and Kitchen,1,4525.8,2025-08-23,East,UPI,Delivered
+ORD07000379,CUST000029,Meera Das,Smartwatch,Electronics,1,7332.75,2025-10-10,South,Credit Card,Delivered
+ORD07000380,CUST000156,Vihaan Joshi,Skincare Kit,Beauty,2,2384.22,not-a-date, South ,Credit Card,Shipped
+ORD07000381,CUST000182,Meera Sharma,Cookware Set,Home and Kitchen,3,5185.95,2026-03-02,North,Net Banking,Delivered
+ORD07000382,CUST000065,Ishaan Gupta,Cricket Bat,Sports,3,1728.5,2026-07-28,North,Credit Card,Delivered
+ORD07000383,CUST000330,Aarav Malhotra,Programming Book,Books,1,1566.48,2026-03-12,East,Debit Card,Delivered
+ORD07000384,,Ayaan Verma,Cricket Bat,Sports,1,3024.32,2026-07-30, West ,Net Banking,Processing
+ORD07000385,CUST000333,Vihaan Mehta,Cricket Bat,Sports,2,4149.88,2025-03-25,West,Net Banking,Cancelled
+ORD07000386,CUST000261,Vihaan Sharma,Mixer,Home and Kitchen,1,3878.61,2026-02-27,South,Cash on Delivery,Shipped
+ORD07000387,CUST000279,,Shoes,Fashion,-4,4996.94,2025-10-27,East,Credit Card,Delivered
+ORD07000388,CUST000140,Vihaan Singh,Cricket Bat,Sports,1,4337.3,2025-06-27,South,Debit Card,Delivered
+ORD07000389,CUST000083,Aadhya Nair,Smartphone,Electronics,2,40264.35,2026-01-13,North,Net Banking,Processing
+ORD07000390,CUST000006,Ishaan Singh,Hair Dryer,Beauty,2,1791.0,2025-03-25,Central,Credit Card,Delivered
+ORD07000391,CUST000319,Aditya Joshi,T-Shirt,Fashion,5,365.93,2025-08-31,Central,Cash on Delivery,Delivered
+ORD07000392,CUST000195,Vivaan Malhotra,Smartphone, electronics ,1,37392.68,2026-02-27,East,Net Banking,Delivered
+ORD07000393,CUST000216,Arjun Kapoor,Smartphone,Electronics,1,13702.39,2026-06-22,North,Net Banking,Shipped
+ORD07000394,,Sai Mehta,Vacuum Cleaner,Home and Kitchen,2,11503.5,2026-03-17,North,Debit Card,Returned
+ORD07000395,CUST000342,Myra Mehta,Smartwatch,Electronics,5,16985.93,2025-08-29,South,Net Banking,Processing
+ORD07000396,CUST000095,Kavya Kumar,Cookware Set,Home and Kitchen,3,4137.5,2025-09-30,East,Credit Card,Delivered
+ORD07000397,CUST000378,Ayaan Gupta,Yoga Mat,Sports,1,1774.86,2025-06-14,West,,Delivered
+ORD07000398,CUST000145,Saanvi Nair,Yoga Mat,Sports,1,1000.09,2025-03-07,North,Cash on Delivery,Delivered
+ORD07000399,CUST000066,Sai Singh,Cookware Set,Home and Kitchen,4,4737.94,2026-05-15,East,UPI,Delivered
+ORD07000400,CUST000109,Myra Mehta,Jacket,Fashion,3,4697.33,2025-02-21,East,Credit Card,Delivered
+ORD07000401,CUST000297,Aadhya Iyer,Yoga Mat,Sports,1,1647.52,2025-04-12,Central,Credit Card,Processing
+ORD07000402,CUST000185,Myra Verma,Laptop,Electronics,1,50319.0,2026-06-03,East,Net Banking,Shipped
+ORD07000403,CUST000286,Kavya Verma,Skincare Kit,Beauty,5,1947.33,2025-09-08,North,Credit Card,Shipped
+ORD07000404,CUST000288,Kavya Kumar,Mixer,Home and Kitchen,1,3036.08,2026-07-11,East,Cash on Delivery,Delivered
+ORD07000405,CUST000197,Ananya Joshi,T-Shirt,Fashion,1,460.51,2025-12-31,South,UPI,Delivered
+ORD07000406,CUST000197,Saanvi Mehta,Headphones,Electronics,1,11276.08,2025-10-15,East,Cash on Delivery,Cancelled
+ORD07000407,CUST000256,Aadhya Kumar,Cookware Set,Home and Kitchen,-1,2748.19,2026-05-19,East,Cash on Delivery,Delivered
+ORD07000408,CUST000220,Ananya Gupta,Smartwatch,Electronics,1,6526.96,2025-01-22,South,Net Banking,Cancelled
+ORD07000409,CUST000061,Arjun Gupta,Programming Book,Books,3,1795.59,2025-03-31,East,Cash on Delivery,Delivered
+ORD07000410,CUST000229,Ira Joshi,Cookware Set,Home and Kitchen,1,7365.75,2026-10-06,Central,Debit Card,Delivered
+ORD07000411,,Riya Singh,Shoes,Fashion,1,6655.24,2026-03-04,East,Net Banking,Shipped
+ORD07000412,CUST000106,Reyansh Mehta,Academic Book,Books,3,-220.34,2025-01-30,West,Cash on Delivery,Delivered
+ORD07000413,CUST000296,Aadhya Malhotra,Smartwatch,Electronics,4,13047.63,2025-09-15,South,UPI,Delivered
+ORD07000414,CUST000283,Ira Iyer,Yoga Mat, sports ,1,1389.87,2025-12-23,West,Credit Card,Delivered
+ORD07000415,CUST000285,Krishna Verma,Jacket,Fashion,2,3499.12,2025-07-24,North,Credit Card,Returned
+ORD07000416,CUST000030,Ira Verma,Mixer,Home and Kitchen,1,1999.95,2025-03-23,South,Net Banking,Cancelled
+ORD07000417,CUST000337,Vihaan Kumar,Mixer,Home and Kitchen,1,4480.15,2026-03-27,South,Cash on Delivery,Delivered
+ORD07000418,CUST000121,Vihaan Kumar,Jeans,Fashion,1,971.58,2025-07-25,West,UPI,Delivered
+ORD07000419,CUST000070,Arjun Das,Cookware Set,Home and Kitchen,4,2265.46,2025-04-14,West,Cash on Delivery,Delivered
+ORD07000420,CUST000357,Ira Iyer,Hair Dryer,Beauty,2,3265.75,2026-04-17,West,Credit Card,Shipped
+ORD07000421,CUST000252,Vivaan Iyer,Skincare Kit,Beauty,1,2770.92,2025-02-25,East,Cash on Delivery,Delivered
+ORD07000422,CUST000253,Sai Iyer,Smartwatch,Electronics,6,8619.96,2026-07-02,West,Cash on Delivery,Delivered
+ORD07000423,CUST000213,Ira Sharma,Fiction Book,Books,2,340.34,2025-07-29,Central,Debit Card,Cancelled
+ORD07000424,CUST000258,Priya Mehta,Headphones,Electronics,1,1402.84,2026-01-30,Central,Credit Card,Delivered
+ORD07000425,CUST000348,Ira Patel,Smartwatch,Electronics,2,11941.46,2025-09-30,West,UPI,Delivered
+ORD07000426,CUST000008,Aarav Verma,Cookware Set,Home and Kitchen,1,5414.87,2025-07-03,North,Debit Card,Shipped
+ORD07000427,CUST000263,Aditya Singh,Smartphone,Electronics,3,41767.94,2026-01-08,West,Credit Card,Delivered
+ORD07000428,CUST000088,Meera Verma,Headphones,Electronics,1,4008.33,2025-04-24,Central,Cash on Delivery,Delivered
+ORD07000429,CUST000192,Reyansh Singh,Vacuum Cleaner,Home and Kitchen,1,20253.76,2025-09-21,North,Debit Card,Delivered
+ORD07000430,CUST000346,Vivaan Malhotra,Mixer,Home and Kitchen,2,6230.86,2025-05-31,South,UPI,Delivered
+ORD07000431,CUST000050,Vihaan Das,Vacuum Cleaner,Home and Kitchen,1,13754.79,2026-07-16,East,UPI,Processing
+ORD07000432,CUST000375,Riya Joshi,Laptop,Electronics,2,65447.45,2025-05-17,South,Credit Card,Delivered
+ORD07000433,CUST000217,Aadhya Mehta,Smartwatch,Electronics,1,6927.52,2025-03-16,South,Net Banking,Delivered
+ORD07000434,CUST000021,Riya Patel,Smartphone,Electronics,2,62888.54,2026-10-31,West,Cash on Delivery,Delivered
+ORD07000435,CUST000377,Ishaan Malhotra,Vacuum Cleaner,Home and Kitchen,1,20541.99,2026-05-11,West,UPI,Delivered
+ORD07000436,CUST000130,Ayaan Malhotra,Cookware Set,Home and Kitchen,1,5266.48,2025-08-21,Central,Cash on Delivery,Delivered
+ORD07000437,CUST000281,Priya Malhotra,Jeans,Fashion,2,2880.98,2025-12-28,North,Cash on Delivery,Delivered
+ORD07000438,CUST000208,Ananya Singh,Smartwatch,Electronics,2,4945.59,2026-02-24,North,UPI,Delivered
+ORD07000439,CUST000076,Ananya Joshi,Headphones,Electronics,4,7384.06,2026-08-19,South,Credit Card,Delivered
+ORD07000440,CUST000114,Ayaan Mehta,Skincare Kit,Beauty,1,1845.2,2025-04-01,East,,Delivered
+ORD07000441,CUST000073,Priya Gupta,Smartphone,Electronics,4,40393.93,2025-07-18,North,Cash on Delivery,Delivered
+ORD07000442,CUST000160,Ishaan Gupta,Smartwatch,Electronics,5,13935.49,2025-01-01,Central,Debit Card,Delivered
+ORD07000443,CUST000330,Aarav Patel,Fiction Book,Books,2,322.03,2026-02-26,South,UPI,Cancelled
+ORD07000444,CUST000030,Aadhya Shah,Hair Dryer,Beauty,2,3997.51,2025-09-16,East,Debit Card,Delivered
+ORD07000445,CUST000045,Kavya Kumar,T-Shirt,Fashion,3,693.69,2026-07-03,East,Cash on Delivery,Delivered
+ORD07000446,CUST000230,Aditya Das,Yoga Mat,Sports,1,962.07,2026-01-08,East,Credit Card,Shipped
+ORD07000447,CUST000187,Saanvi Mehta,Headphones,Electronics,4,11184.91,2025-02-23,West,Credit Card,Delivered
+ORD07000448,CUST000139,Aditya Reddy,Cookware Set,Home and Kitchen,4,1071.93,2025-07-05,North,Debit Card,Delivered
+ORD07000449,CUST000337,Saanvi Kumar,Smartwatch,Electronics,5,15714.47,2026-10-14,West,Debit Card,Delivered
+ORD07000450,CUST000005,Aadhya Mehta,Yoga Mat,Sports,1,746.8,2025-10-14,South,UPI,Delivered
+ORD07000451,CUST000112,Ananya Sharma,Hair Dryer,Beauty,1,2926.25,2025-07-24,North,UPI,Delivered
+ORD07000452,CUST000361,Saanvi Kapoor,Football,Sports,2,1745.79,2025-08-16,East,Cash on Delivery,Delivered
+ORD07000453,CUST000193,Priya Verma,Cricket Bat,Sports,2,5451.06,2025-06-28,East,Cash on Delivery,Delivered
+ORD07000454,CUST000299,Sai Das,Cricket Bat,Sports,1,2636.71,2025-12-03,East,Credit Card,Shipped
+ORD07000455,CUST000216,Riya Verma,Yoga Mat,Sports,3,1559.76,2026-03-24,West,UPI,Cancelled
+ORD07000456,CUST000359,Aarav Verma,Hair Dryer,Beauty,1,1919.51,2025-09-05,North,Debit Card,Delivered
+ORD07000457,CUST000331,Myra Verma,Laptop,Electronics,2,54840.27,2026-02-22,East,Cash on Delivery,Delivered
+ORD07000458,CUST000289,Krishna Kumar,Cricket Bat,Sports,1,3543.69,2025-06-26,West,UPI,Delivered
+ORD07000459,CUST000086,Priya Gupta,Headphones,Electronics,2,11661.0,2026-02-09,South,Net Banking,Processing
+ORD07000460,CUST000167,Aarav Mehta,Skincare Kit,Beauty,1,2706.75,2026-02-04,South,Debit Card,Delivered
+ORD07000461,CUST000169,Meera Verma,Vacuum Cleaner,Home and Kitchen,2,0,2026-03-21,North,Net Banking,Delivered
+ORD07000462,CUST000275,Meera Sharma,Perfume,Beauty,2,1872.62,2026-10-14,North,Credit Card,Delivered
+ORD07000463,CUST000103,Aadhya Das,T-Shirt,Fashion,3,1199.8,2025-11-03,Central,Cash on Delivery,Delivered
+ORD07000464,CUST000080,Ira Shah,T-Shirt,Fashion,2,1452.55,2026-06-20,South,Debit Card,Shipped
+ORD07000465,CUST000252,Aarav Joshi, Academic Book ,Books,5,743.81,2025-07-20,North,Debit Card,Processing
+ORD07000466,CUST000302,Diya Kapoor,Football,Sports,2,1893.22,2025-12-27,Central,Net Banking,Delivered
+ORD07000467,CUST000008,Reyansh Kapoor,Cricket Bat,Sports,2,4697.45,2025-07-27,South,UPI,Returned
+ORD07000468,CUST000229,Ananya Reddy,Smartphone,Electronics,1,24766.74,2025-11-26,South,Net Banking,Delivered
+ORD07000469,CUST000245,Reyansh Kumar,Smartwatch,Electronics,4,6558.67,2025-02-01,South,Cash on Delivery,Delivered
+ORD07000470,CUST000242,Aditya Kapoor,T-Shirt,Fashion,1,941.4,2025-10-14,South,UPI,Delivered
+ORD07000471,CUST000283,Krishna Nair,Vacuum Cleaner,Home and Kitchen,3,4852.73,2026-10-14,West,Debit Card,Processing
+ORD07000472,CUST000155,Krishna Iyer,Perfume, beauty ,6,1192.89,2025-05-22,Central,Net Banking,Delivered
+ORD07000473,CUST000243,Priya Iyer,Cricket Bat,Sports,4,6051.54,2025-06-28,South,UPI,Delivered
+ORD07000474,CUST000224,Priya Verma,Shoes,Fashion,1,5677.88,2025-09-17,West,UPI,Delivered
+ORD07000475,CUST000109,Meera Malhotra,Laptop,Electronics,2,53740.08,2026-07-17,East,Debit Card,Delivered
+ORD07000476,CUST000100,Sai Gupta,Laptop,Electronics,1,62559.74,2026-07-20,North,UPI,Delivered
+ORD07000477,CUST000211,Riya Das,Vacuum Cleaner,Home and Kitchen,1,4540.48,2025-12-07,East,Cash on Delivery,Cancelled
+ORD07000478,CUST000231,Vihaan Joshi,Perfume,Beauty,2,1667.29,2026-04-06,South,UPI,Shipped
+ORD07000479,CUST000107,Aarav Das,Headphones,Electronics,1,4811.45,2025-04-02,East,Cash on Delivery,Delivered
+ORD07000480,CUST000027,Myra Singh,Hair Dryer,Beauty,4,4054.34,2026-06-07,North,UPI,Shipped
+ORD07000481,CUST000237,Ananya Malhotra,Programming Book,Books,2,1104.78,2025-08-15,Central,Net Banking,Processing
+ORD07000482,CUST000337,Riya Kapoor,Academic Book,Books,3,913.64,2025-06-15,West,Cash on Delivery,Delivered
+ORD07000483,CUST000218,Vihaan Joshi,Skincare Kit,Beauty,1,2660.16,2025-05-27,Central,Debit Card,Delivered
+ORD07000484,CUST000071,Krishna Mehta,Shoes,Fashion,1,1034.94,2025-07-13,East,Debit Card,Delivered
+ORD07000485,CUST000268,Aarav Gupta,Laptop,Electronics,1,48694.89,2026-05-21,West,Credit Card,Delivered
+ORD07000486,CUST000268,Aarav Malhotra,Laptop,Electronics,1,59212.68,2026-02-24,North,Debit Card,Delivered
+ORD07000487,CUST000170,Riya Reddy,Yoga Mat,Sports,2,-144.23,2025-08-18,North,Debit Card,Processing
+ORD07000488,CUST000094,Aadhya Sharma,Smartphone,Electronics,5,64946.76,2025-05-17,Central,Net Banking,Shipped
+ORD07000489,CUST000143,Kavya Patel,Perfume,Beauty,4,2769.54,2026-09-14,East,Credit Card,Processing
+ORD07000490,CUST000015,Arjun Shah,Vacuum Cleaner,Home and Kitchen,3,5559.26,2026-08-23,West,Cash on Delivery,Shipped
+ORD07000491,CUST000056,Priya Reddy,Cookware Set,Home and Kitchen,1,4900.55,2025-02-25,Central,UPI,Delivered
+ORD07000492,CUST000187,Sai Shah,Cookware Set,Home and Kitchen,2,994.74,2025-06-16,North,UPI,Delivered
+ORD07000493,CUST000228,Kavya Joshi,Yoga Mat,Sports,1,1619.91,2025-09-24,Central,Credit Card,Delivered
+ORD07000494,CUST000088,Sai Verma,Hair Dryer,Beauty,4,4136.74,2026-02-21,East,Credit Card,Delivered
+ORD07000495,CUST000296,Riya Joshi,Smartwatch,Electronics,3,7248.69,2025-05-08,East,UPI,Delivered
+ORD07000496,CUST000280,Priya Das,Football,Sports,1,1356.29,2026-04-15,South,Net Banking,Delivered
+ORD07000497,CUST000119,Saanvi Patel,Jacket,Fashion,3,2458.6,2025-05-17,Central,Cash on Delivery,Delivered
+ORD07000498,CUST000192,Meera Malhotra,Yoga Mat,Sports,2,1048.87,2026-10-17,West,Cash on Delivery,Delivered
+ORD07000499,CUST000275,Kavya Das,Laptop,Electronics,1,45638.95,2025-07-26,East,Cash on Delivery,Delivered
+ORD07000500,CUST000122,Aditya Iyer,Jacket,Fashion,4,3507.07,2025-02-25,North,Net Banking,Delivered
+ORD07000501,CUST000014,Vivaan Patel,Mixer,Home and Kitchen,1,5147.5,2025-02-03,East,Debit Card,Delivered
+ORD07000502,CUST000082,Aarav Verma,Mixer,Home and Kitchen,1,4956.87,2026-10-14,North,UPI,Delivered
+ORD07000503,CUST000117,Sai Sharma,Smartwatch,Electronics,6,14393.41,2025-05-30, East ,Credit Card,Cancelled
+ORD07000504,CUST000261,Reyansh Singh,Smartwatch,Electronics,3,11908.48,2026-04-27,East,UPI,Delivered
+ORD07000505,CUST000153,Ananya Patel,Hair Dryer,Beauty,1,2951.03,2025-12-16,North,Debit Card,Delivered
+ORD07000506,CUST000220,Arjun Kapoor,Jacket,Fashion,1,1820.57,2025-02-08,North,Credit Card,Processing
+ORD07000507,,Kavya Kapoor,Mixer,Home and Kitchen,3,2496.79,2025-08-26,West,UPI,Delivered
+ORD07000508,CUST000374,Myra Gupta,Programming Book,Books,3,357.6,2026-08-08,East,Debit Card,Delivered
+ORD07000509,CUST000184,Myra Gupta,Cookware Set,Home and Kitchen,4,4953.85,2025-05-13,Central,Cash on Delivery,Delivered
+ORD07000510,CUST000115,Krishna Verma,Academic Book,Books,2,531.63,2026-06-06,Central,Cash on Delivery,Shipped
+ORD07000511,CUST000028,Meera Shah,Perfume,Beauty,4,2606.12,2026-02-13,North,Cash on Delivery,Processing
+ORD07000512,CUST000025,Meera Joshi,T-Shirt,Fashion,3,1224.97,2025-08-04,South,Debit Card,Delivered
+ORD07000513,CUST000155,Diya Mehta,Yoga Mat,Sports,2,1414.53,2026-07-04,Central,Net Banking,Delivered
+ORD07000514,CUST000179,Ayaan Shah,Vacuum Cleaner,Home and Kitchen,1,10178.18,2026-03-04,West,UPI,Delivered
+ORD07000515,CUST000212,Ayaan Joshi,Laptop,Electronics,5,60665.52,2025-11-11,South,Debit Card,Cancelled
+ORD07000516,CUST000288,Arjun Malhotra,Jacket,Fashion,2,1848.8,2025-12-31,East,Cash on Delivery,Delivered
+ORD07000517,CUST000204,Ira Shah,Hair Dryer,Beauty,1,1828.54,2025-01-01,Central,Debit Card,Cancelled
+ORD07000518,CUST000059,Arjun Verma,Hair Dryer,Beauty,1,2035.61,2025-04-18,Central,Net Banking,Delivered
+ORD07000519,CUST000049,Vihaan Patel,Fiction Book,Books,-4,381.64,2026-04-15,West,Cash on Delivery,Delivered
+ORD07000520,CUST000101,Saanvi Malhotra,T-Shirt,Fashion,2,641.04,2025-02-25,Central,Net Banking,Delivered
+ORD07000521,CUST000364,Ayaan Verma,Jacket,Fashion,1,3548.19,2025-03-18,Central,Debit Card,Delivered
+ORD07000522,CUST000214,Saanvi Shah,Mixer,Home and Kitchen,4,6258.94,2025-08-08,Central,Net Banking,Delivered
+ORD07000523,CUST000314,Aarav Kumar,Shoes,Fashion,1,1382.8,2026-02-04,West,Debit Card,Shipped
+ORD07000524,CUST000120,Aarav Singh,Skincare Kit,Beauty,1,1795.33,2025-12-12,West,Debit Card,Delivered
+ORD07000525,CUST000322,Myra Das,Skincare Kit,Beauty,2,885.47,2025-01-23,North,Debit Card,Cancelled
+ORD07000526,CUST000128,Reyansh Shah,Fiction Book,Books,1,423.85,2025-01-12,North,Net Banking,Processing
+ORD07000527,CUST000022,Kavya Joshi,Perfume,Beauty,1,3646.11,2025-06-11,Central,Cash on Delivery,Delivered
+ORD07000528,CUST000176,Aadhya Gupta,Mixer,Home and Kitchen,1,4712.17,2025-07-11,Central,Credit Card,Processing
+ORD07000529,CUST000353,Reyansh Iyer,Smartwatch,Electronics,1,13306.24,2026-03-30,Central,Credit Card,Delivered
+ORD07000530,CUST000298,Diya Singh,Programming Book,Books,6,888.75,2026-02-02,South,,Delivered
+ORD07000531,CUST000350,Vihaan Das,Jacket,Fashion,1,5002.35,2025-01-20,East,Credit Card,Delivered
+ORD07000532,CUST000297,Diya Malhotra,Shoes,Fashion,1,2240.97,2026-09-28,North,Net Banking,Processing
+ORD07000533,CUST000354,Riya Gupta,Fiction Book,Books,3,477.63,2026-09-12,Central,Cash on Delivery,Delivered
+ORD07000534,CUST000276,Ayaan Gupta,Cookware Set,Home and Kitchen,3,4390.53,2026-06-12,North,Debit Card,Delivered
+ORD07000535,CUST000273,Krishna Mehta,Cricket Bat,Sports,5,5051.18,2025-06-22,South,Credit Card,Delivered
+ORD07000536,CUST000311,Vihaan Kapoor,Jeans,Fashion,1,1346.61,2025-01-03,East,Debit Card,Delivered
+ORD07000537,CUST000120,Saanvi Mehta,Programming Book,Books,1,792.27,2025-04-28,North,Credit Card,Delivered
+ORD07000538,CUST000016,Aarav Shah,Skincare Kit,Beauty,1,846.09,2026-05-11,North,Credit Card,Delivered
+ORD07000539,CUST000244,Vivaan Iyer,Laptop,Electronics,3,78778.01,2026-07-26,Central,Debit Card,Delivered
+ORD07000540,CUST000019,Sai Gupta,Hair Dryer,Beauty,2,1314.65,2026-04-04,Central,Credit Card,Delivered
+ORD07000541,CUST000010,Arjun Joshi,Football,Sports,2,2061.29,08/04/2025,East,,Processing
+ORD07000542,CUST000328,Aadhya Nair,Vacuum Cleaner,Home and Kitchen,3,19154.0,2025-03-25,West,UPI,Delivered
+ORD07000543,CUST000134,Kavya Mehta,T-Shirt,Fashion,3,800.0,2026-08-09,Central,UPI,Processing
+ORD07000544,CUST000315,Ira Shah,Cookware Set,Home and Kitchen,5,1227.15,2026-01-19,North,Debit Card,Delivered
+ORD07000545,CUST000219,Sai Malhotra,Smartphone,Electronics,1,41663.37,2025-01-29,North,Cash on Delivery,Delivered
+ORD07000546,CUST000339,Myra Das,Laptop,Electronics,2,85745.71,2025-06-07,Central,UPI,Delivered
+ORD07000547,CUST000316,Meera Malhotra,Laptop,Electronics,1,74550.72,2026-05-09,South,Debit Card,Delivered
+ORD07000548,CUST000054,Priya Joshi,Mixer,Home and Kitchen,5,2826.95,2025-07-18,Central,Net Banking,Delivered
+ORD07000549,,Saanvi Gupta,Cookware Set,Home and Kitchen,2,6336.07,2026-03-09,South,Credit Card,Delivered
+ORD07000550,CUST000076,Reyansh Joshi,Mixer,Home and Kitchen,4,2556.25,2025-09-06,West,Debit Card,Cancelled
+ORD07000551,CUST000240,Aditya Mehta,Yoga Mat,Sports,2,684.83,2026-03-17,South,Credit Card,Delivered
+ORD07000552,CUST000347,Diya Verma,Headphones,Electronics,2,10046.99,2026-07-06,North,Credit Card,Delivered
+ORD07000553,CUST000058,Krishna Verma,Football,Sports,2,1397.03,2026-06-19,West,Debit Card,Delivered
+ORD07000554,CUST000051,Saanvi Gupta,Smartwatch,Electronics,2,15301.3,2026-03-31,South,Debit Card,Cancelled
+ORD07000555,CUST000275,Myra Nair,T-Shirt,Fashion,3,977.67,2025-02-06,North,Debit Card,Cancelled
+ORD07000556,CUST000303,Krishna Reddy,Yoga Mat,Sports,3,1256.1,2025-09-20,North,Cash on Delivery,Delivered
+ORD07000557,CUST000124,Diya Sharma,Football,Sports,2,1703.81,2025-05-13,East,Net Banking,Delivered
+ORD07000558,CUST000324,Vihaan Shah,Headphones,Electronics,2,10719.08,2026-09-01,South,UPI,Delivered
+ORD07000559,CUST000072,Sai Singh,Vacuum Cleaner,Home and Kitchen,1,17441.87,2025-10-14,Central,Debit Card,Delivered
+ORD07000560,CUST000120,Krishna Das,T-Shirt,Fashion,1,1420.47,2026-04-13,West,Credit Card,Delivered
+ORD07000561,CUST000062,Ishaan Iyer,Skincare Kit,Beauty,2,2091.11,2025-05-08,West,Net Banking,Delivered
+ORD07000562,CUST000193,Reyansh Singh,Shoes,Fashion,3,6675.39,2025-10-06,South,Cash on Delivery,Delivered
+ORD07000563,CUST000243,Vihaan Das,Jacket,Fashion,3,4906.64,2026-02-12,East,Debit Card,Delivered
+ORD07000564,CUST000193,Reyansh Sharma,Jeans,Fashion,2,1183.58,2026-09-29,Central,Credit Card,Delivered
+ORD07000565,CUST000357,Meera Singh,Fiction Book,Books,2,256.18,2026-11-01,North,UPI,Delivered
+ORD07000566,CUST000160,Aadhya Shah,Fiction Book,Books,2,447.17,2025-04-09,East,Cash on Delivery,Returned
+ORD07000567,CUST000214,Aarav Gupta,Smartwatch,Electronics,4,3367.79,2025-05-13,Central,Credit Card,Delivered
+ORD07000568,CUST000129,Myra Sharma,Academic Book,Books,1,1983.3,2025-05-29,West,Net Banking,Delivered
+ORD07000569,CUST000242,Kavya Das,Shoes,Fashion,1,2641.44,2025-04-14,East,Debit Card,Delivered
+ORD07000570,CUST000298,Aadhya Gupta,Smartwatch,Electronics,2,11892.32,2025-01-14,West,Net Banking,Delivered
+ORD07000571,CUST000025,Arjun Gupta,Smartphone,Electronics,5,24610.03,2026-03-21,West,UPI,Delivered
+ORD07000572,CUST000064,Ananya Reddy,Headphones,Electronics,4,8965.8,2025-03-22,West,Cash on Delivery,Delivered
+ORD07000573,CUST000253,Vihaan Joshi,Mixer,Home and Kitchen,3,4918.81,2026-09-25,North,Credit Card,Delivered
+ORD07000574,CUST000120,Myra Kumar,Vacuum Cleaner,Home and Kitchen,3,17658.38,2026-03-01,East,Net Banking,Delivered
+ORD07000575,CUST000080,,Fiction Book,Books,2,423.51,2025-09-25,Central,Credit Card,Delivered
+ORD07000576,CUST000275,Aadhya Shah,Smartphone,Electronics,2,36610.99,2025-11-20,North,Cash on Delivery,Delivered
+ORD07000577,CUST000338,Aarav Kumar,Cookware Set,Home and Kitchen,2,6562.81,2026-07-19,Central,Cash on Delivery,Delivered
+ORD07000578,CUST000013,Diya Singh,Smartphone,Electronics,3,31243.4,2025-12-04,South,UPI,Delivered
+ORD07000579,CUST000322,Aadhya Kumar,Cookware Set,Home and Kitchen,4,6026.2,2025-05-03,West,UPI,Returned
+ORD07000580,,Vivaan Joshi,T-Shirt,Fashion,3,1090.85,2026-01-18,Central,Credit Card,Delivered
+ORD07000581,CUST000286,Riya Gupta,Programming Book,Books,3,814.59,2026-03-09,East,Cash on Delivery,Delivered
+ORD07000582,CUST000212,Aadhya Reddy,Vacuum Cleaner,Home and Kitchen,2,9972.48,2025-09-20,Central,UPI,Processing
+ORD07000583,CUST000288,Aadhya Patel,Yoga Mat,Sports,3,1762.42,2026-10-03,North,Cash on Delivery,Delivered
+ORD07000584,CUST000352,Kavya Iyer,Skincare Kit,Beauty,2,1783.57,2025-10-03,West,UPI,Delivered
+ORD07000585,CUST000349,Aditya Sharma,Headphones,Electronics,2,4540.83,2026-03-31,North,UPI,Returned
+ORD07000586,CUST000282,Ananya Das,Laptop,Electronics,3,63555.08,2026-05-10,East,Credit Card,Delivered
+ORD07000587,CUST000205,Myra Patel,Fiction Book,Books,2,600.03,2026-03-17,West,UPI,Delivered
+ORD07000588,CUST000088,Ayaan Kapoor,Laptop,Electronics,4,56901.05,2025-06-23,East,Debit Card,Processing
+ORD07000589,CUST000286,Aarav Verma,Smartphone,Electronics,2,81594.03,2026-05-31,North,Debit Card,Delivered
+ORD07000590,CUST000057,Vihaan Patel,Smartphone,ELECTRONICS,4,53774.8,2025-09-11,West,Net Banking,Processing
+ORD07000591,CUST000102,Ayaan Joshi,Smartwatch,Electronics,5,8212.3,2026-09-24,North,Credit Card,Delivered
+ORD07000592,CUST000231,Riya Mehta,Jeans,Fashion,4,1597.09,2026-08-10,North,Cash on Delivery,Shipped
+ORD07000593,CUST000188,Riya Singh,Hair Dryer,Beauty,1,1836.59,2025-10-01,North,Debit Card,Processing
+ORD07000594,CUST000269,Vihaan Mehta,Jeans,Fashion,1,1526.49,2026-10-23,South,Debit Card,Delivered
+ORD07000595,CUST000088,Sai Singh,T-Shirt,Fashion,5,328.3,2025-09-07,West,Cash on Delivery,Delivered
+ORD07000596,CUST000157,Saanvi Kapoor,Jeans,Fashion,1,1518.71,2025-09-04,North,UPI,Delivered
+ORD07000597,CUST000305,Aadhya Patel,Football,Sports,4,427.12,2026-02-05,East,Net Banking,Returned
+ORD07000598,CUST000225,Ishaan Das,Headphones,Electronics,1,1933.32,2026-01-11,East,Net Banking,Shipped
+ORD07000599,CUST000048,Ira Das,Fiction Book,Books,1,724.3,2026-02-15, South ,Cash on Delivery,Processing
+ORD07000600,CUST000089,Reyansh Sharma,Smartwatch,Electronics,3,17148.1,2026-06-13,West,UPI,Delivered
+ORD07000601,CUST000352,Diya Mehta,Programming Book,Books,2,950.26,2026-05-04,South,Net Banking,Delivered
+ORD07000602,CUST000378,Vivaan Das,Laptop,Electronics,2,61820.96,2025-08-16,East,Credit Card,Delivered
+ORD07000603,CUST000093,Aadhya Malhotra,Skincare Kit,Beauty,1,1158.61,2025-04-18,West,Credit Card,Delivered
+ORD07000604,CUST000018,Ananya Kumar,Academic Book,Books,3,260.63,2025-08-04,South,Net Banking,Delivered
+ORD07000605,CUST000018,Aadhya Nair,Headphones,Electronics,2,11347.03,2026-10-16,North,Debit Card,Processing
+ORD07000606,CUST000378,Aadhya Patel,Perfume,Beauty,1,1994.17,2026-04-18,North,Credit Card,Returned
+ORD07000607,CUST000045,Myra Shah,Shoes,Fashion,1,1820.04,2026-01-06,Central,UPI,Delivered
+ORD07000608,CUST000082,Aadhya Kapoor,Smartwatch,Electronics,2,6044.82,2026-10-20,North,UPI,Cancelled
+ORD07000609,CUST000248,Ananya Nair,Programming Book,Books,2,1041.44,2025-09-23,North,Cash on Delivery,Delivered
+ORD07000610,CUST000033,Saanvi Verma,Hair Dryer,Beauty,1,1100.61,2026-02-17,East,Cash on Delivery,Delivered
+ORD07000611,CUST000223,Diya Gupta,Mixer,Home and Kitchen,1,6057.95,2025-07-17,West,Cash on Delivery,Delivered
+ORD07000612,CUST000039,Aarav Mehta,Smartwatch,ELECTRONICS,1,6293.77,2025-02-25,South,UPI,Returned
+ORD07000613,CUST000148,Ishaan Reddy,T-Shirt,Fashion,5,390.08,2025-05-01,Central,Debit Card,Delivered
+ORD07000614,CUST000369,Priya Kapoor,Hair Dryer,Beauty,1,3408.44,2025-02-08,South,UPI,Shipped
+ORD07000615,CUST000207,Ayaan Malhotra,Mixer,Home and Kitchen,3,1701.51,2026-10-24,East,Net Banking,Delivered
+ORD07000616,CUST000376,Aadhya Kapoor,Academic Book,Books,1,0,2026-04-24,East,Cash on Delivery,Delivered
+ORD07000617,CUST000301,Priya Mehta,Smartphone,Electronics,1,15872.88,2026-10-05,East,Net Banking,Delivered
+ORD07000618,CUST000040,Aadhya Iyer,Perfume,Beauty,1,4966.99,2025-10-13,South,Credit Card,Shipped
+ORD07000619,CUST000047,Ishaan Kumar,Skincare Kit,Beauty,1,2852.94,2026-05-27, West ,UPI,Cancelled
+ORD07000620,CUST000216,Saanvi Sharma,Fiction Book,Books,3,518.49,2026-05-07,East,Credit Card,Delivered
+ORD07000621,CUST000177,Ishaan Patel,Laptop,Electronics,1,50690.32,2026-10-09,South,UPI,Delivered
+ORD07000622,CUST000265,Krishna Patel,Headphones,Electronics,3,2313.41,2025-03-05,West,UPI,Shipped
+ORD07000623,CUST000140,Aditya Reddy,Jeans,Fashion,1,-492.19,2025-07-25,North,Debit Card,Returned
+ORD07000624,CUST000203,Aarav Das,Yoga Mat,Sports,1,1004.23,2025-06-04,West,Debit Card,Cancelled
+ORD07000625,CUST000137,Ananya Das,Mixer,Home and Kitchen,5,2253.52,2026-01-10,West,UPI,Delivered
+ORD07000626,CUST000294,Riya Joshi,Smartwatch,Electronics,5,2004.08,2026-05-10,South,Credit Card,Shipped
+ORD07000627,CUST000275,Aadhya Mehta,Cricket Bat,Sports,5,6038.95,2025-06-11,North,Credit Card,Delivered
+ORD07000628,CUST000231,Aarav Joshi,T-Shirt,Fashion,2,658.85,2025-05-09,West,Net Banking,Cancelled
+ORD07000629,CUST000370,Diya Kapoor,Football,Sports,1,425.47,2026-10-24,Central,Credit Card,Delivered
+ORD07000630,CUST000363,Ananya Kumar,Football,Sports,2,652.57,2025-06-15,South,Debit Card,Delivered
+ORD07000631,CUST000141,Arjun Das,Mixer,Home and Kitchen,2,2580.87,2026-06-30,West,UPI,Shipped
+ORD07000632,CUST000252,Ayaan Sharma,Vacuum Cleaner,Home and Kitchen,1,17832.21,2026-10-30,North,Debit Card,Delivered
+ORD07000633,CUST000031,Aditya Patel,Jeans,Fashion,1,1980.78,2025-05-30,East,Cash on Delivery,Shipped
+ORD07000634,CUST000081,Ananya Reddy,Headphones,Electronics,1,4017.77,2026-10-06,North,UPI,Processing
+ORD07000635,CUST000301,Saanvi Verma,Cricket Bat, sports ,1,5585.97,2026-02-02,West,Debit Card,Delivered
+ORD07000636,CUST000240,Riya Kumar,Cookware Set,Home and Kitchen,1,5782.1,2026-05-19,Central,Cash on Delivery,Delivered
+ORD07000637,CUST000303,Meera Kumar,Smartwatch,Electronics,1,15846.53,2026-04-30,Central,UPI,Cancelled
+ORD07000638,CUST000081,Ananya Verma,Mixer,Home and Kitchen,2,5521.59,2025-10-22,North,Credit Card,Delivered
+ORD07000639,CUST000187,Vivaan Kumar,Fiction Book,Books,1,305.81,2025-08-14,North,Debit Card,Processing
+ORD07000640,CUST000329,Vivaan Iyer,Vacuum Cleaner,Home and Kitchen,1,21876.11,2025-06-21,South,Credit Card,Processing
+ORD07000641,CUST000224,Vivaan Nair,Skincare Kit,Beauty,4,2716.16,2025-04-15,West,UPI,Delivered
+ORD07000642,CUST000354,Arjun Mehta,Cookware Set,Home and Kitchen,1,2767.69,2026-02-13,West,UPI,Delivered
+ORD07000643,,Arjun Kapoor,Mixer,Home and Kitchen,3,2604.07,2026-08-13,East,Net Banking,Delivered
+ORD07000644,CUST000096,Diya Nair,Jeans,Fashion,1,2116.73,2026-05-05,Central,Debit Card,Delivered
+ORD07000645,CUST000267,Diya Iyer,Cookware Set,Home and Kitchen,2,6860.32,2026-06-16,Central,UPI,Delivered
+ORD07000646,CUST000364,Riya Nair,Mixer,Home and Kitchen,2,2690.84,2025-11-05,East,Credit Card,Delivered
+ORD07000647,CUST000299,Ananya Verma,Skincare Kit,Beauty,6,971.48,2025-01-22,West,Credit Card,Delivered
+ORD07000648,CUST000048,Ayaan Patel,Jeans,Fashion,1,1357.45,2025-10-01,Central,Cash on Delivery,Delivered
+ORD07000649,CUST000123,Saanvi Shah,Vacuum Cleaner,Home and Kitchen,1,21754.81,2025-06-01,Central,Credit Card,Delivered
+ORD07000650,CUST000268,,Cookware Set,Home and Kitchen,1,3081.23,2026-04-12,East,Net Banking,Shipped
+ORD07000651,CUST000081,Myra Singh,Cookware Set,Home and Kitchen,3,6968.58,2025-02-19,East,Debit Card,Delivered
+ORD07000652,CUST000081,Krishna Singh,Vacuum Cleaner,Home and Kitchen,3,21346.94,2025-11-23,North,Net Banking,Delivered
+ORD07000653,CUST000348,Priya Patel,T-Shirt,Fashion,2,1462.44,2025-11-17,North,Net Banking,Processing
+ORD07000654,CUST000157,Krishna Kumar,Smartwatch,Electronics,1,10568.08,2025-05-28,East,Debit Card,Delivered
+ORD07000655,CUST000316,Diya Patel,Shoes,Fashion,2,3764.71,2025-06-07,West,Net Banking,Delivered
+ORD07000656,CUST000181,Reyansh Gupta,Jacket,Fashion,1,3345.54,2026-02-23,Central,Credit Card,Delivered
+ORD07000657,CUST000152,Aadhya Gupta,Mixer,Home and Kitchen,1,5846.81,2026-05-07,Central,Debit Card,Delivered
+ORD07000658,CUST000032,Sai Mehta,Vacuum Cleaner,Home and Kitchen,3,12995.51,2026-06-05,West,Debit Card,Delivered
+ORD07000659,CUST000313,Vihaan Kumar,Shoes,Fashion,5,5918.31,2026-02-20,South,Cash on Delivery,Delivered
+ORD07000660,CUST000001,Krishna Sharma,Perfume,Beauty,3,1804.45,2026-05-11,South,Credit Card,Delivered
+ORD07000661,CUST000369,Vivaan Sharma,Football,Sports,1,1850.74,2025-10-05,North,Debit Card,Delivered
+ORD07000662,CUST000117,Vihaan Reddy,Football,Sports,3,1017.79,2026-01-29,Central,Credit Card,Shipped
+ORD07000663,CUST000229,Arjun Kumar,Jeans,Fashion,1,1856.91,2026-05-11,South,Debit Card,Shipped
+ORD07000664,CUST000144,Meera Kumar,Skincare Kit,Beauty,1,2247.33,2025-02-09,North,Debit Card,Delivered
+ORD07000665,CUST000089,Ayaan Das,Vacuum Cleaner,Home and Kitchen,3,18779.49,2026-03-13,West,Credit Card,Delivered
+ORD07000666,CUST000097,Aditya Reddy,Cricket Bat,Sports,3,3262.99,2025-08-01,West,Debit Card,Cancelled
+ORD07000667,CUST000184,Saanvi Mehta,Skincare Kit,Beauty,6,0,2025-01-14,East,UPI,Cancelled
+ORD07000668,CUST000115,Arjun Mehta,Smartwatch,Electronics,1,8289.27,2025-10-22,Central,Debit Card,Delivered
+ORD07000669,CUST000363,Ira Gupta,Mixer,Home and Kitchen,1,3894.29,2026-01-21,Central,Debit Card,Delivered
+ORD07000670,CUST000356,Aarav Mehta,Perfume,BEAUTY,3,2722.78,2026-03-01,North,Credit Card,Delivered
+ORD07000671,CUST000030,Myra Joshi,Vacuum Cleaner,Home and Kitchen,5,13072.39,2025-03-10,North,Cash on Delivery,Processing
+ORD07000672,CUST000268,Arjun Kapoor,Mixer,Home and Kitchen,2,4986.47,2025-02-22,East,Cash on Delivery,Delivered
+ORD07000673,CUST000142,Ananya Das,Mixer,Home and Kitchen,1,4893.23,2025-09-17,North,Credit Card,Delivered
+ORD07000674,CUST000374,Priya Mehta,Fiction Book,Books,1,582.63,2025-10-27,Central,Cash on Delivery,Cancelled
+ORD07000675,CUST000024,Priya Nair,Football,Sports,2,962.95,2025-08-14,West,Debit Card,Delivered
+ORD07000676,CUST000321,Krishna Iyer,Mixer, home and kitchen ,2,1201.61,2026-01-27,Central,Debit Card,Delivered
+ORD07000677,CUST000118,Sai Shah,Mixer,Home and Kitchen,2,4179.48,2026-02-09,South,Cash on Delivery,Delivered
+ORD07000678,CUST000005,Vivaan Reddy,Cookware Set,Home and Kitchen,1,4067.34,2026-08-03,South,Net Banking,Delivered
+ORD07000679,CUST000284,Reyansh Patel,Jeans,Fashion,1,2950.99,2025-12-05,East,Credit Card,Shipped
+ORD07000680,CUST000259,Krishna Patel,Jacket,Fashion,1,3314.98,2026-03-02,Central,Cash on Delivery,Delivered
+ORD07000681,CUST000205,Ananya Singh,Mixer,Home and Kitchen,2,5797.04,2026-06-29,Central,UPI,Shipped
+ORD07000682,CUST000326,Arjun Singh,Laptop,Electronics,2,52135.24,2025-04-04,South,Cash on Delivery,Delivered
+ORD07000683,CUST000223,Reyansh Das,Cricket Bat,Sports,1,5468.93,2025-01-21,East,Net Banking,Delivered
+ORD07000684,CUST000261,Sai Iyer,Smartphone,Electronics,2,68082.33,2025-01-25,North,Debit Card,Delivered
+ORD07000685,CUST000033,Myra Reddy,Smartwatch,Electronics,2,4148.1,2026-07-22,West,Debit Card,Delivered
+ORD07000686,CUST000334,Priya Malhotra,Mixer,Home and Kitchen,3,3789.46,2025-02-23,Central,Net Banking,Delivered
+ORD07000687,CUST000128,Kavya Malhotra,Smartwatch,Electronics,2,4290.53,2025-03-14,East,UPI,Delivered
+ORD07000688,CUST000219,Meera Joshi,Jeans,Fashion,6,1567.81,2026-05-05,South,Net Banking,Delivered
+ORD07000689,CUST000335,Riya Nair,Headphones,Electronics,6,4971.86,2025-04-01,East,Net Banking,Delivered
+ORD07000690,CUST000362,Priya Iyer,Shoes,Fashion,1,6941.09,2025-06-20,South,Debit Card,Delivered
+ORD07000691,CUST000148,Ira Kumar,Football,Sports,3,1294.16,2025-02-25,North,Net Banking,Processing
+ORD07000692,CUST000326,Sai Shah,Perfume,Beauty,1,1998.65,2026-09-11,South,UPI,Returned
+ORD07000693,CUST000116,Ira Singh,Skincare Kit,Beauty,2,2020.17,2025-06-30,South,Debit Card,Delivered
+ORD07000694,CUST000173,Ananya Reddy,Mixer,Home and Kitchen,5,5110.43,2026-10-21,West,Cash on Delivery,Delivered
+ORD07000695,CUST000154,Ayaan Reddy,Smartwatch,Electronics,1,13206.43,2026-01-10,West,Credit Card,Shipped
+ORD07000696,CUST000157,Myra Shah,Cricket Bat,Sports,2,5669.62,2025-05-07,Central,UPI,Delivered
+ORD07000697,CUST000291,Ira Kumar,Shoes,Fashion,1,1179.95,2025-09-06,North,Net Banking,Delivered
+ORD07000698,CUST000035,Arjun Malhotra,Mixer,Home and Kitchen,1,5368.93,2025-07-16,West,Credit Card,Returned
+ORD07000699,CUST000356,Arjun Reddy,Mixer,Home and Kitchen,1,4258.4,2026-04-18,South,Net Banking,Delivered
+ORD07000700,CUST000167,Riya Joshi,Fiction Book,Books,1,718.49,2026-08-24,North,Credit Card,Delivered
+ORD07000701,CUST000106,Sai Singh,Smartwatch,Electronics,2,17043.64,2025-06-04,Central,Cash on Delivery,Delivered
+ORD07000702,CUST000043,Kavya Iyer,Jeans,Fashion,1,2247.71,not-a-date,South,Cash on Delivery,Delivered
+ORD07000703,CUST000061,Diya Kapoor,Skincare Kit,Beauty,1,1770.27,2025-05-17,East,Net Banking,Cancelled
+ORD07000704,CUST000328,Ayaan Das,Perfume,Beauty,1,5256.45,2026-03-13,East,Cash on Delivery,Delivered
+ORD07000705,CUST000350,Aadhya Patel,Mixer,Home and Kitchen,1,5896.8,2025-09-08,North,Net Banking,Cancelled
+ORD07000706,CUST000144,Aarav Mehta,Hair Dryer,Beauty,1,2600.01,2026-09-05,West,Cash on Delivery,Delivered
+ORD07000707,CUST000275,Myra Iyer,Jacket,Fashion,6,2832.83,2026-06-08,West,Net Banking,Delivered
+ORD07000708,CUST000237,Aditya Reddy,Smartphone,Electronics,3,49459.49,2025-04-25,Central,Cash on Delivery,Delivered
+ORD07000709,CUST000151,Arjun Shah,Smartwatch,Electronics,3,14951.74,2026-06-07,South,UPI,Delivered
+ORD07000710,CUST000183,Vivaan Reddy,Hair Dryer,Beauty,1,3260.17,2026-08-23,South,Cash on Delivery,Delivered
+ORD07000711,CUST000054,Aarav Malhotra,Perfume,Beauty,6,2067.79,2025-08-11,North,UPI,Delivered
+ORD07000712,CUST000080,Ira Malhotra,Jacket,Fashion,1,4739.0,2025-04-13,North,Cash on Delivery,Delivered
+ORD07000713,CUST000197,Krishna Singh,Jacket,Fashion,1,4202.95,2025-04-12,North,Debit Card,Returned
+ORD07000714,CUST000362,Vivaan Gupta,T-Shirt,Fashion,2,1365.77,2025-08-18,South,UPI,Delivered
+ORD07000715,CUST000090,Vivaan Verma,Skincare Kit,Beauty,2,3024.88,2026-01-05,West,UPI,Delivered
+ORD07000716,CUST000361,Sai Mehta,Jacket,Fashion,2,2443.44,2026-06-03,North,Net Banking,Returned
+ORD07000717,CUST000067,Ananya Verma,Smartphone,Electronics,5,55629.33,2025-10-08,North,Net Banking,Delivered
+ORD07000718,CUST000161,Kavya Malhotra,Academic Book,Books,2,1057.51,2025-03-29,East,UPI,Delivered
+ORD07000719,CUST000129,Saanvi Malhotra,Shoes,Fashion,2,4855.5,2026-07-28,Central,UPI,Delivered
+ORD07000720,CUST000059,Kavya Shah,Mixer,Home and Kitchen,1,1210.34,2025-11-16,North,UPI,Cancelled
+ORD07000721,CUST000060,Sai Gupta,Perfume,Beauty,3,1171.17,2025-01-03,East,Credit Card,Cancelled
+ORD07000722,CUST000357,Saanvi Singh,T-Shirt,Fashion,1,915.83,2025-09-17,West,Debit Card,Delivered
+ORD07000723,CUST000321,Priya Nair,Hair Dryer,Beauty,2,4710.84,2026-06-15,Central,Net Banking,Delivered
+ORD07000724,CUST000277,Priya Verma,Perfume,Beauty,1,1466.19,2025-04-17,South,Debit Card,Delivered
+ORD07000725,CUST000364,Aditya Sharma,T-Shirt,Fashion,2,980.27,2026-04-08,North,Credit Card,Cancelled
+ORD07000726,CUST000185,Arjun Nair,Jeans,Fashion,5,2140.57,2025-07-07,Central,Cash on Delivery,Delivered
+ORD07000727,CUST000275,Ananya Kapoor,Programming Book,Books,1,0,2026-03-27,South,UPI,Shipped
+ORD07000728,CUST000290,Aarav Malhotra,Vacuum Cleaner,Home and Kitchen,1,18893.13,2025-11-24,South,Credit Card,Returned
+ORD07000729,CUST000237,Riya Das,Skincare Kit,Beauty,3,2069.2,2025-08-23,East,UPI,Delivered
+ORD07000730,CUST000284,,Skincare Kit,Beauty,1,2224.69,2025-04-04,East,Debit Card,Delivered
+ORD07000731,CUST000205,Aditya Sharma,Shoes,Fashion,1,2842.7,2026-04-09,South,Cash on Delivery,Returned
+ORD07000732,CUST000316,Priya Gupta,Cricket Bat,Sports,4,5344.48,2026-09-20,Central,Cash on Delivery,Returned
+ORD07000733,CUST000068,Vivaan Verma,Mixer,Home and Kitchen,5,1545.32,2026-02-21,East,Cash on Delivery,Delivered
+ORD07000734,CUST000013,Vihaan Patel,Programming Book,Books,5,819.88,2026-05-11,South,Debit Card,Delivered
+ORD07000735,CUST000209,Priya Sharma,Smartphone,Electronics,2,13489.38,2025-05-08,Central,Cash on Delivery,Processing
+ORD07000736,CUST000260,Ira Malhotra,Smartwatch,Electronics,4,7757.77,2025-01-22,West,Debit Card,Delivered
+ORD07000737,CUST000379,Ananya Patel,Programming Book,Books,2,1270.12,2026-06-07,North,UPI,Delivered
+ORD07000738,CUST000335,Sai Malhotra,Academic Book,Books,3,1303.72,2026-05-01,North,Cash on Delivery,Processing
+ORD07000739,CUST000204,Meera Gupta,Mixer,Home and Kitchen,2,2214.59,2026-06-06,Central,Credit Card,Delivered
+ORD07000740,CUST000377,Ishaan Verma,Vacuum Cleaner,Home and Kitchen,1,0,2025-05-13, East ,Debit Card,Processing
+ORD07000741,CUST000053,Vivaan Patel,Hair Dryer,Beauty,2,3305.58,2026-06-19,West,Cash on Delivery,Delivered
+ORD07000742,CUST000146,Aadhya Singh,Cricket Bat,Sports,6,1269.65,2026-10-23,North,Net Banking,Delivered
+ORD07000743,CUST000364,Sai Mehta,Jacket,Fashion,2,5459.66,2025-02-07,South,Credit Card,Returned
+ORD07000744,CUST000077,Kavya Das,Laptop,Electronics,1,86568.37,2025-01-23,Central,UPI,Delivered
+ORD07000745,CUST000155,Priya Patel,Yoga Mat,Sports,4,1542.4,2026-08-15,Central,Cash on Delivery,Delivered
+ORD07000746,CUST000076,Ananya Verma,Hair Dryer,Beauty,1,1735.61,2026-09-18,East,UPI,Processing
+ORD07000747,CUST000062,Reyansh Malhotra,Laptop,Electronics,1,76220.4,2025-09-07,East,Cash on Delivery,Delivered
+ORD07000748,CUST000161,Aadhya Das,Smartwatch,Electronics,5,15747.88,2025-12-23,West,Credit Card,Delivered
+ORD07000749,CUST000016,Ishaan Verma,Skincare Kit,Beauty,4,1416.45,2025-10-23,North,Debit Card,Delivered
+ORD07000750,CUST000137,Aarav Patel,Smartphone,Electronics,1,41283.26,2026-10-31,East,Cash on Delivery,Delivered
+ORD07000751,CUST000068,Aditya Nair,Vacuum Cleaner,Home and Kitchen,2,8416.42,2025-01-22,South,Credit Card,Shipped
+ORD07000752,CUST000365,Ananya Mehta,Shoes,Fashion,3,5951.29,2026-04-24,North,UPI,Delivered
+ORD07000753,CUST000102,Aadhya Nair,Laptop,Electronics,6,64707.06,2026-04-08,North,Net Banking,Processing
+ORD07000754,CUST000197,Krishna Singh,Vacuum Cleaner,Home and Kitchen,4,16449.75,2026-10-15,Central,Net Banking,Delivered
+ORD07000755,CUST000283,Aadhya Mehta,Cricket Bat,Sports,2,0,2025-08-24,North,Debit Card,Delivered
+ORD07000756,CUST000130,Krishna Reddy,Skincare Kit,Beauty,1,1338.27,2025-05-28,East,UPI,Delivered
+ORD07000757,CUST000229,Ayaan Singh,Jeans,Fashion,2,2948.48,2026-07-12,West,Debit Card,Delivered
+ORD07000758,CUST000141,Diya Nair,Shoes,Fashion,1,3552.52,2026-01-23,North,Debit Card,Delivered
+ORD07000759,CUST000354,Krishna Joshi,T-Shirt,Fashion,3,786.48,2025-03-23,North,Net Banking,Delivered
+ORD07000760,CUST000276,Diya Kumar,Hair Dryer,Beauty,4,2397.84,2025-06-20,West,Debit Card,Delivered
+ORD07000761,CUST000159,Ayaan Das,Cookware Set,Home and Kitchen,4,3366.56,2025-10-23,North,Net Banking,Delivered
+ORD07000762,CUST000010,Sai Gupta,Mixer,Home and Kitchen,2,3240.78,2026-10-01,West,Net Banking,Returned
+ORD07000763,CUST000068,Riya Reddy,Vacuum Cleaner,Home and Kitchen,3,13965.69,2026-03-10,East,Cash on Delivery,Delivered
+ORD07000764,CUST000378,Saanvi Reddy,Mixer,Home and Kitchen,3,6300.02,2026-09-30,North,Cash on Delivery,Returned
+ORD07000765,CUST000239,Myra Iyer,Programming Book,Books,1,1412.12,2025-05-09,Central,Debit Card,Delivered
+ORD07000766,CUST000061,Aarav Sharma,Smartwatch,Electronics,1,14482.76,2026-06-29,East,UPI,Delivered
+ORD07000767,CUST000290,Diya Kapoor,Shoes,Fashion,1,2266.25,2026-08-06,East,UPI,Delivered
+ORD07000768,CUST000235,Ira Iyer,Cricket Bat,Sports,2,3617.97,2026-10-28,West,Cash on Delivery,Delivered
+ORD07000769,CUST000200,Diya Reddy,Cookware Set,Home and Kitchen,2,3158.15,2025-08-31,North,Credit Card,Delivered
+ORD07000770,CUST000131,Diya Iyer,T-Shirt,Fashion,1,563.79,2025-10-07,South,Debit Card,Delivered
+ORD07000771,CUST000023,Arjun Reddy,Football,Sports,4,2017.01,2025-04-21,Central,Cash on Delivery,Returned
+ORD07000772,CUST000128,Aditya Kumar,Skincare Kit,Beauty,4,3282.79,2025-12-04,West,Cash on Delivery,Delivered
+ORD07000773,CUST000363,Riya Malhotra,Vacuum Cleaner,Home and Kitchen,2,13996.44,2026-04-03,West,Debit Card,Delivered
+ORD07000774,CUST000141,Ananya Verma,Cricket Bat,Sports,2,2354.14,2026-06-13,South,UPI,Delivered
+ORD07000775,CUST000350,Kavya Joshi,Smartwatch,Electronics,1,2908.68,2025-08-07,South,Cash on Delivery,Delivered
+ORD07000776,CUST000288,,Yoga Mat,Sports,1,1353.73,2026-03-04,Central,Debit Card,Delivered
+ORD07000777,CUST000127,Krishna Sharma,Laptop,Electronics,1,89719.81,2026-06-13,Central,UPI,Delivered
+ORD07000778,CUST000281,Krishna Gupta,Smartphone,Electronics,4,52597.16,2026-06-26,West,UPI,Delivered
+ORD07000779,CUST000196,Kavya Gupta,Fiction Book,Books,1,326.6,2025-10-18,North,Credit Card,Processing
+ORD07000780,CUST000240,Krishna Patel,Vacuum Cleaner,Home and Kitchen,2,9985.7,2026-02-18,West,Cash on Delivery,Processing
+ORD07000781,CUST000238,Meera Patel,Fiction Book,Books,1,469.14,2026-02-25,North,Cash on Delivery,Delivered
+ORD07000782,CUST000184,Ananya Nair,Headphones,Electronics,2,4746.4,2025-09-23,West,Net Banking,Cancelled
+ORD07000783,CUST000177,Sai Reddy,Headphones,Electronics,2,9477.5,2026-03-16,North,UPI,Delivered
+ORD07000784,CUST000162,Ayaan Reddy,Academic Book,Books,5,1415.29,2026-08-22,North,Credit Card,Delivered
+ORD07000785,CUST000337,Saanvi Patel,Hair Dryer,Beauty,1,1253.76,2026-02-02,Central,UPI,Delivered
+ORD07000786,CUST000028,Sai Gupta,Smartwatch,Electronics,2,2948.87,2025-09-21,West,Credit Card,Delivered
+ORD07000787,CUST000132,Saanvi Nair,T-Shirt,Fashion,3,659.9,2025-02-11,North,UPI,Delivered
+ORD07000788,CUST000186,Ishaan Verma,Headphones,Electronics,2,7801.09,2026-10-16,Central,Credit Card,Shipped
+ORD07000789,CUST000171,Aditya Malhotra,Mixer,Home and Kitchen,1,1778.14,2025-06-22,South,Credit Card,Returned
+ORD07000790,CUST000159,Sai Verma,Fiction Book,Books,1,649.81,2025-10-24,South,Debit Card,Returned
+ORD07000791,CUST000200,Sai Singh,Mixer,Home and Kitchen,5,3020.31,2026-07-10,East,UPI,Delivered
+ORD07000792,CUST000210,Diya Joshi,Laptop,Electronics,-2,62699.38,2025-07-30,South,Credit Card,Delivered
+ORD07000793,CUST000142,Ananya Joshi,Perfume,Beauty,1,5094.37,2026-09-26,South,Net Banking,Processing
+ORD07000794,CUST000274,Vivaan Nair,Jacket,Fashion,1,2830.83,2026-06-22,South,Debit Card,Shipped
+ORD07000795,CUST000274,Ayaan Sharma,Vacuum Cleaner,Home and Kitchen,1,18385.91,2026-08-27,Central,Cash on Delivery,Delivered
+ORD07000796,CUST000084,Kavya Mehta,Vacuum Cleaner,Home and Kitchen,1,10893.01,2026-09-10,South,Debit Card,Delivered
+ORD07000797,CUST000367,Vihaan Patel,Jeans,Fashion,5,1157.87,2025-05-23,Central,Cash on Delivery,Processing
+ORD07000798,CUST000038,Vivaan Malhotra,Programming Book,Books,3,366.16,2026-07-23,West,Net Banking,Processing
+ORD07000799,CUST000114,Aarav Das,Skincare Kit,Beauty,2,2044.5,2026-08-23,East,Debit Card,Delivered
+ORD07000800,,Ishaan Shah,T-Shirt,Fashion,2,373.01,2025-11-10,Central,UPI,Delivered
+ORD07000801,CUST000104,Krishna Malhotra,Perfume,Beauty,-1,5518.89,2026-10-29,Central,Cash on Delivery,Shipped
+ORD07000802,CUST000230,Aadhya Mehta,Programming Book,Books,1,825.21,2026-02-24,East,Debit Card,Delivered
+ORD07000803,CUST000129,Ira Shah,Academic Book,Books,1,770.85,2026-06-01,Central,Credit Card,Processing
+ORD07000804,CUST000020,Reyansh Verma,Mixer,Home and Kitchen,1,5376.5,2026-07-14,Central,Net Banking,Cancelled
+ORD07000805,CUST000363,Saanvi Iyer,Headphones,Electronics,1,1042.03,2026-08-29,South,Cash on Delivery,Delivered
+ORD07000806,CUST000351,Riya Shah,Headphones,Electronics,2,8813.04,2025-07-28,South,Cash on Delivery,Shipped
+ORD07000807,CUST000218,Saanvi Sharma,Fiction Book,Books,2,700.42,2026-07-23,East,Credit Card,Delivered
+ORD07000808,CUST000247,Ananya Malhotra,Perfume,Beauty,2,5143.78,2025-07-20,South,Credit Card,Delivered
+ORD07000809,CUST000014,Priya Mehta,Jacket,Fashion,2,5681.04,2025-08-24,East,UPI,Delivered
+ORD07000810,CUST000343,Riya Das,Smartphone,Electronics,1,76650.4,2025-11-22,South,UPI,Processing
+ORD07000811,CUST000308,Ayaan Patel,Cookware Set,Home and Kitchen,5,6512.13,2026-01-05,South,Credit Card,Delivered
+ORD07000812,CUST000049,Kavya Nair,Cookware Set,Home and Kitchen,5,2207.37,2026-09-24,South,Cash on Delivery,Delivered
+ORD07000813,CUST000319,Aadhya Mehta,Football,Sports,2,516.06,2025-08-15,East,UPI,Delivered
+ORD07000814,CUST000316,Diya Joshi,Yoga Mat,Sports,3,723.64,2025-04-16,East,Cash on Delivery,Delivered
+ORD07000815,CUST000164,Ira Gupta,Laptop,Electronics,2,79802.46,2025-08-03,South,Net Banking,Delivered
+ORD07000816,CUST000187,Krishna Shah,Cricket Bat,Sports,4,2607.51,2026-05-17,Central,Debit Card,Delivered
+ORD07000817,CUST000318,Vivaan Nair,Smartphone,Electronics,3,84491.97,2026-04-15,West,UPI,Delivered
+ORD07000818,CUST000357,Aadhya Shah,Yoga Mat,Sports,2,912.62,2026-06-06,Central,,Delivered
+ORD07000819,CUST000324,Sai Mehta,Academic Book,Books,4,1140.32,2026-09-25,South,Net Banking,Shipped
+ORD07000820,CUST000172,Sai Malhotra,Skincare Kit,Beauty,3,2835.45,2026-03-06,Central,Credit Card,Delivered
+ORD07000821,CUST000346,Riya Kapoor,Academic Book,Books,1,1258.78,13/04/2026,South,Net Banking,Processing
+ORD07000822,CUST000329,Kavya Patel,Headphones,Electronics,1,5793.16,2026-09-29,North,Debit Card,Processing
+ORD07000823,CUST000181,Ananya Patel,Skincare Kit,Beauty,1,3039.97,2026-10-11,East,Credit Card,Delivered
+ORD07000824,CUST000294,Ayaan Mehta,Cookware Set,Home and Kitchen,1,5183.14,2025-02-09,East,Cash on Delivery,Delivered
+ORD07000825,CUST000238,Ira Patel,Football,Sports,1,412.67,2026-04-15,West,Cash on Delivery,Delivered
+ORD07000826,CUST000144,Krishna Joshi,Smartphone,Electronics,1,39101.27,2025-06-16,North,Credit Card,Delivered
+ORD07000827,CUST000141,Ayaan Patel,Fiction Book,Books,4,189.92,2026-08-31,North,Debit Card,Delivered
+ORD07000828,CUST000270,Ananya Kapoor,Football,Sports,3,1353.81,2026-01-22,West,Cash on Delivery,Delivered
+ORD07000829,CUST000110,Aditya Joshi,Programming Book,Books,1,904.99,2025-06-09,East,UPI,Delivered
+ORD07000830,CUST000296,Saanvi Nair,Fiction Book,Books,1,660.68,2025-02-09,South,Debit Card,Delivered
+ORD07000831,CUST000124,Ananya Kumar,Mixer,Home and Kitchen,3,1568.99,2025-05-27,Central,UPI,Processing
+ORD07000832,CUST000304,Priya Joshi,Vacuum Cleaner,Home and Kitchen,1,20163.54,2026-06-23,East,Credit Card,Delivered
+ORD07000833,CUST000059,Sai Shah,Skincare Kit,Beauty,-4,1243.07,2025-06-10,Central,UPI,Delivered
+ORD07000834,CUST000329,Aarav Malhotra,Perfume,Beauty,3,4009.31,2026-07-20,Central,Cash on Delivery,Delivered
+ORD07000835,CUST000137,Aditya Sharma,Fiction Book,Books,3,226.17,2025-10-18,North,Cash on Delivery,Delivered
+ORD07000836,CUST000319,Priya Shah,T-Shirt,Fashion,3,623.74,2025-07-10,South,UPI,Cancelled
+ORD07000837,CUST000107,Riya Kapoor,Smartphone,Electronics,5,74082.25,2025-11-29, South ,Credit Card,Delivered
+ORD07000838,CUST000290,Ira Mehta,Smartwatch,Electronics,5,14931.91,2025-01-01,North,Net Banking,Delivered
+ORD07000839,CUST000149,Meera Kumar,T-Shirt,Fashion,1,620.14,2026-09-09, Central ,Net Banking,Delivered
+ORD07000840,CUST000327,Saanvi Iyer,T-Shirt,Fashion,1,603.67,2026-02-09,South,Debit Card,Delivered
+ORD07000841,CUST000157,Reyansh Nair,T-Shirt,Fashion,1,574.87,2025-11-11,South,UPI,Delivered
+ORD07000842,CUST000120,Riya Joshi,Smartwatch,Electronics,1,11463.74,2025-07-03,Central,Credit Card,Shipped
+ORD07000843,CUST000002,Vihaan Reddy,Cookware Set,Home and Kitchen,1,7427.7,2025-01-12,North,Net Banking,Delivered
+ORD07000844,CUST000278,Aarav Mehta,Programming Book,Books,3,1545.23,2025-10-27,North,Net Banking,Delivered
+ORD07000845,CUST000037,Saanvi Kapoor,Smartphone,Electronics,1,41773.82,2026-09-14,Central,Credit Card,Delivered
+ORD07000846,CUST000066,Aarav Sharma,Headphones,Electronics,3,10449.86,2025-10-20,Central,Debit Card,Delivered
+ORD07000847,CUST000131,Ananya Nair,Laptop,Electronics,-1,49203.76,2026-08-26,East,Cash on Delivery,Cancelled
+ORD07000848,CUST000249,Aditya Shah,Skincare Kit,Beauty,2,3369.54,2026-07-04,North,Net Banking,Delivered
+ORD07000849,CUST000146,Vihaan Mehta,Mixer,Home and Kitchen,2,2913.13,2025-09-01,Central,Credit Card,Shipped
+ORD07000850,CUST000101,Arjun Patel,Vacuum Cleaner,Home and Kitchen,3,7232.77,2026-07-03,South,UPI,Cancelled
+ORD07000851,CUST000052,Ananya Reddy,Skincare Kit,Beauty,1,2382.82,2025-04-20,South,Debit Card,Delivered
+ORD07000852,CUST000141,Diya Joshi,Mixer,Home and Kitchen,1,1340.3,2025-07-20,East,Net Banking,Delivered
+ORD07000853,CUST000134,Sai Reddy,Cookware Set,Home and Kitchen,2,3232.11,2025-12-22,South,Net Banking,Delivered
+ORD07000854,CUST000305,Ishaan Mehta,Cookware Set,Home and Kitchen,2,4832.53,2025-09-26,East,Credit Card,Delivered
+ORD07000855,CUST000007,Ira Iyer,T-Shirt,Fashion,2,1307.29,2025-04-07,Central,UPI,Delivered
+ORD07000856,CUST000218,Ishaan Patel,Smartwatch,Electronics,2,16503.68,2025-05-20,East,Net Banking,Returned
+ORD07000857,CUST000172,Ananya Kumar,Mixer,Home and Kitchen,2,5526.02,2026-06-23,East,UPI,Delivered
+ORD07000858,CUST000081,Reyansh Verma,Smartwatch,Electronics,2,15875.22,2025-09-03,East,Net Banking,Shipped
+ORD07000859,CUST000355,Priya Nair,Cricket Bat,Sports,4,4456.81,2026-05-01,North,Cash on Delivery,Delivered
+ORD07000860,CUST000334,Riya Verma,Headphones,Electronics,2,6156.26,2025-05-30,East,Debit Card,Delivered
+ORD07000861,CUST000138,Ira Joshi,Yoga Mat,Sports,2,986.61,2026-04-10,North,Debit Card,Delivered
+ORD07000862,CUST000088,Sai Malhotra,Jeans,Fashion,5,2549.1,2025-11-21,North,Credit Card,Delivered
+ORD07000863,CUST000044,Reyansh Kumar,Smartphone,Electronics,1,70678.2,27/05/2026,West,Net Banking,Shipped
+ORD07000864,CUST000256,Meera Kumar,Cookware Set,Home and Kitchen,1,4634.99,2025-09-21,East,Credit Card,Delivered
+ORD07000865,CUST000196,Meera Mehta,Fiction Book,Books,2,261.05,2025-09-23,South,Debit Card,Cancelled
+ORD07000866,CUST000288,Myra Das,Mixer,Home and Kitchen,1,4972.8,2025-12-12,West,Net Banking,Delivered
+ORD07000867,CUST000094,Myra Kumar,Mixer,Home and Kitchen,1,4931.59,2025-05-31,West,UPI,Delivered
+ORD07000868,CUST000235,Aarav Das,Skincare Kit,Beauty,1,3121.24,2026-09-06,Central,Debit Card,Cancelled
+ORD07000869,CUST000110,Krishna Shah,Smartwatch,Electronics,1,10259.38,2025-08-14,South,Cash on Delivery,Delivered
+ORD07000870,CUST000194,Reyansh Gupta,Academic Book,Books,2,712.93,2026-10-13,West,Debit Card,Shipped
+ORD07000871,CUST000176,Ayaan Shah,Academic Book,Books,1,964.92,2026-06-23,North,Debit Card,Delivered
+ORD07000872,CUST000294,Sai Singh,Skincare Kit,Beauty,1,1166.7,2026-03-11,South,UPI,Delivered
+ORD07000873,CUST000303,Aarav Nair,Shoes,Fashion,1,4377.44,2026-03-09,East,Cash on Delivery,Delivered
+ORD07000874,CUST000313,Krishna Iyer,Laptop,Electronics,1,86609.61,2026-07-03, North ,UPI,Delivered
+ORD07000875,CUST000179,Krishna Kapoor,Skincare Kit,Beauty,1,3111.88,2026-02-11,Central,Debit Card,Delivered
+ORD07000876,CUST000346,Ananya Verma,Vacuum Cleaner,Home and Kitchen,2,21750.03,2026-08-20,South,Net Banking,Delivered
+ORD07000877,CUST000069,Krishna Malhotra,Programming Book,Books,1,1637.85,2026-03-31,Central,Net Banking,Shipped
+ORD07000878,CUST000073,Kavya Sharma,T-Shirt,Fashion,2,620.87,2025-03-07,North,Debit Card,Processing
+ORD07000879,CUST000104,Aadhya Malhotra,Programming Book,Books,1,1557.96,2026-10-25,Central,Cash on Delivery,Delivered
+ORD07000880,CUST000165,Sai Das,Jeans,Fashion,1,2406.59,2025-03-26,South,Cash on Delivery,Shipped
+ORD07000881,CUST000156,Ira Das,Perfume,Beauty,1,3571.04,2026-03-31,Central,Cash on Delivery,Processing
+ORD07000882,CUST000248,Myra Joshi,Fiction Book, books ,4,220.82,14/02/2026,West,Cash on Delivery,Delivered
+ORD07000883,CUST000215,Saanvi Mehta,T-Shirt,Fashion,3,476.66,2025-04-09,Central,Cash on Delivery,Cancelled
+ORD07000884,CUST000243,Ira Iyer,T-Shirt,Fashion,2,426.56,2026-05-17,South,Net Banking,Delivered
+ORD07000885,CUST000327,Priya Reddy,Shoes,Fashion,2,1190.42,2026-01-11,West,UPI,Delivered
+ORD07000886,CUST000009,Aditya Patel,Shoes,Fashion,1,1166.18,2026-02-01,East,UPI,Delivered
+ORD07000887,CUST000075,Ishaan Joshi,Perfume,Beauty,1,1459.42,2025-09-19,Central,Debit Card,Delivered
+ORD07000888,CUST000311,Vivaan Reddy,Smartphone,Electronics,1,22323.57,2025-11-19,West,Net Banking,Delivered
+ORD07000889,CUST000203,Vihaan Nair,Shoes,Fashion,1,6292.72,2025-10-25,West,Credit Card,Processing
+ORD07000890,CUST000285,Kavya Singh,Headphones,Electronics,1,6123.71,2025-12-20,South,Credit Card,Shipped
+ORD07000891,CUST000101,Arjun Patel,Cookware Set,Home and Kitchen,3,2597.98,2025-06-24,East,Credit Card,Delivered
+ORD07000892,CUST000306,Diya Singh,T-Shirt,Fashion,3,682.73,2025-03-26,South,UPI,Delivered
+ORD07000893,CUST000279,Ishaan Singh,Hair Dryer,Beauty,4,0,2026-10-19,East,Credit Card,Processing
+ORD07000894,CUST000141,Meera Sharma,Skincare Kit,Beauty,2,2504.15,2026-04-24,North,Credit Card,Shipped
+ORD07000895,CUST000102,Sai Das,Cricket Bat,Sports,1,3600.78,2026-08-12,North,Cash on Delivery,Processing
+ORD07000896,CUST000172,Ira Singh,Cookware Set,Home and Kitchen,2,4147.54,2025-01-28,South,UPI,Delivered
+ORD07000897,CUST000224,Aadhya Kapoor,Headphones,Electronics,2,3016.15,2025-11-22,East,Credit Card,Processing
+ORD07000898,CUST000328,Priya Malhotra,Smartwatch,Electronics,1,4475.59,2025-07-08,North,Cash on Delivery,Delivered
+ORD07000899,CUST000299,Saanvi Iyer,Cookware Set,Home and Kitchen,1,2476.0,2026-01-29,South,Credit Card,Returned
+ORD07000900,CUST000011,Riya Nair,Programming Book,Books,3,1692.5,2025-12-24,Central,Credit Card,Delivered
+ORD07000901,CUST000088,Aarav Sharma,Hair Dryer,Beauty,1,1212.52,2025-09-25,West,Debit Card,Delivered
+ORD07000902,CUST000320,Ira Das,Smartwatch,Electronics,1,12721.59,2026-10-12,East,Net Banking,Delivered
+ORD07000903,CUST000193,Ananya Singh,Shoes,Fashion,3,4737.26,2025-06-20,East,Credit Card,Delivered
+ORD07000904,CUST000279,Aditya Kapoor,Yoga Mat,Sports,2,986.0,2026-05-04,East,Cash on Delivery,Returned
+ORD07000905,CUST000057,Kavya Joshi,Perfume,Beauty,4,4863.07,2025-05-23,West,Debit Card,Delivered
+ORD07000906,CUST000079,Sai Joshi,Laptop,Electronics,1,71958.98,2026-09-07,North,Net Banking,Cancelled
+ORD07000907,CUST000025,Meera Kapoor,Mixer,Home and Kitchen,2,2839.57,2025-01-26,East,Debit Card,Delivered
+ORD07000908,CUST000209,Ira Singh,Football,Sports,5,1550.23,2025-09-26,South,Cash on Delivery,Delivered
+ORD07000909,CUST000159,Kavya Verma,Cricket Bat,Sports,1,1335.64,2026-06-22,West,Debit Card,Delivered
+ORD07000910,CUST000104,Arjun Joshi,Skincare Kit,Beauty,2,3304.25,2026-02-24,North,Net Banking,Delivered
+ORD07000911,,Myra Gupta,Fiction Book,Books,1,605.64,2026-01-17,South,Cash on Delivery,Delivered
+ORD07000912,CUST000311,Riya Kumar,Football,Sports,1,2062.27,2026-10-10,West,UPI,Delivered
+ORD07000913,CUST000164,Vihaan Das,Jacket,Fashion,5,5805.85,2026-06-12,Central,Credit Card,Shipped
+ORD07000914,CUST000330,Kavya Verma,Smartphone,Electronics,1,16128.98,2025-10-13,Central,UPI,Delivered
+ORD07000915,CUST000222,Riya Kumar,Mixer,Home and Kitchen,2,3802.26,2026-06-10,West,Net Banking,Delivered
+ORD07000916,CUST000222,Aarav Mehta,Mixer,Home and Kitchen,2,2885.74,2025-09-20,South,Cash on Delivery,Delivered
+ORD07000917,CUST000158,Vivaan Das,Jeans,Fashion,2,1575.04,2026-05-12,East,Net Banking,Delivered
+ORD07000918,CUST000310,Riya Malhotra,Smartwatch,Electronics,3,1706.44,2026-01-04,East,Cash on Delivery,Delivered
+ORD07000919,CUST000334,Meera Reddy,Laptop,Electronics,2,84188.45,2025-11-22,Central,Cash on Delivery,Delivered
+ORD07000920,CUST000233,Reyansh Joshi,Programming Book,Books,1,459.08,2025-07-04,East,Net Banking,Delivered
+ORD07000921,CUST000248,Krishna Joshi,Jacket,Fashion,2,3825.81,2026-04-17,Central,Credit Card,Delivered
+ORD07000922,CUST000069,Riya Kapoor,Vacuum Cleaner,Home and Kitchen,2,9469.02,2026-06-19,South,Debit Card,Delivered
+ORD07000923,CUST000285,Sai Nair,Skincare Kit,Beauty,1,1165.21,2025-04-08,West,Credit Card,Delivered
+ORD07000924,CUST000060,Aarav Iyer,Jeans,Fashion,6,1741.38,2026-03-21,North,Net Banking,Delivered
+ORD07000925,CUST000276,Vihaan Iyer,Fiction Book,Books,1,643.5,2026-06-13,North,Net Banking,Delivered
+ORD07000926,CUST000329,Ananya Das,Fiction Book,Books,1,384.79,2026-08-25,East,UPI,Delivered
+ORD07000927,CUST000002,Myra Joshi,Mixer,Home and Kitchen,3,6371.29,2025-07-14,East,Cash on Delivery,Delivered
+ORD07000928,CUST000089,Riya Nair,Yoga Mat,Sports,1,1711.18,2025-06-26,West,UPI,Delivered
+ORD07000929,CUST000224,Sai Sharma,Laptop,Electronics,1,91501.38,2026-06-21,South,Cash on Delivery,Delivered
+ORD07000930,CUST000284,Sai Verma,Programming Book,Books,4,722.34,2025-09-19,West,Credit Card,Delivered
+ORD07000931,CUST000206,Meera Kapoor,Laptop,Electronics,2,64441.26,2025-11-25,West,Credit Card,Delivered
+ORD07000932,CUST000041,Aarav Gupta,Cricket Bat,Sports,1,3103.79,not-a-date,South,Debit Card,Returned
+ORD07000933,CUST000154,Ishaan Verma,Laptop,Electronics,2,73708.9,2025-08-06,East,UPI,Delivered
+ORD07000934,CUST000034,Aditya Verma,Laptop,Electronics,1,70244.63,2025-08-21,South,Net Banking,Delivered
+ORD07000935,CUST000267,Diya Reddy,Skincare Kit,Beauty,4,2168.08,2026-08-17,South,Credit Card,Processing
+ORD07000936,CUST000351,Diya Kumar,Laptop,Electronics,1,55452.2,2025-09-21,East,Net Banking,Delivered
+ORD07000937,CUST000185,Kavya Kumar,Shoes,Fashion,3,2288.8,2026-05-15,West,Debit Card,Delivered
+ORD07000938,CUST000366,Vihaan Joshi,Mixer,Home and Kitchen,1,6013.42,2025-02-02,North,UPI,Processing
+ORD07000939,CUST000250,Ayaan Malhotra,Laptop,Electronics,1,43963.22,2026-08-08,Central,Cash on Delivery,Returned
+ORD07000940,CUST000052,Ishaan Sharma,Skincare Kit,Beauty,4,3185.81,2025-04-11,West,UPI,Delivered
+ORD07000941,CUST000320,Kavya Kapoor,Programming Book,Books,1,1242.5,2025-02-14,East,Net Banking,Delivered
+ORD07000942,CUST000016,Kavya Nair,Programming Book,Books,1,693.21,2026-01-30,North,Debit Card,Processing
+ORD07000943,CUST000046,Ishaan Malhotra,Vacuum Cleaner,Home and Kitchen,6,7168.02,2025-07-23,South,UPI,Processing
+ORD07000944,,Krishna Joshi,Shoes,Fashion,4,6991.1,2026-01-19,East,UPI,Cancelled
+ORD07000945,CUST000051,Sai Malhotra,T-Shirt,Fashion,1,952.05,2025-05-14,Central,UPI,Delivered
+ORD07000946,CUST000026,Kavya Mehta,Jacket,Fashion,3,3446.34,2026-03-09,Central,Credit Card,Shipped
+ORD07000947,CUST000123,Ayaan Joshi,Headphones,Electronics,1,9561.07,2025-12-01,South,Debit Card,Returned
+ORD07000948,CUST000070,Ayaan Kumar,Football,Sports,5,523.29,2026-02-26,Central,Net Banking,Delivered
+ORD07000949,CUST000118,Aadhya Shah,Smartphone,Electronics,1,62477.63,2026-03-22,East,Cash on Delivery,Delivered
+ORD07000950,CUST000005,Aarav Iyer,Cookware Set,Home and Kitchen,1,4076.76,2026-09-30,North,Cash on Delivery,Cancelled
+ORD07000951,CUST000230,Ishaan Reddy,Smartphone,Electronics,1,77291.32,2025-09-23,South,Credit Card,Delivered
+ORD07000952,CUST000348,Riya Singh,Cookware Set,Home and Kitchen,2,6491.13,2025-04-02,South,Debit Card,Delivered
+ORD07000953,CUST000325,Ishaan Patel,Jeans,Fashion,3,1179.26,2025-06-13,Central,Credit Card,Delivered
+ORD07000954,CUST000360,Reyansh Patel,Perfume,Beauty,1,1435.32,2025-04-02,North,Net Banking,Shipped
+ORD07000955,CUST000079,Ishaan Shah,Smartphone,Electronics,4,44735.33,2026-06-16,West,Net Banking,Delivered
+ORD07000956,CUST000036,Riya Sharma,Perfume,Beauty,4,3441.38,2025-06-27,North,Debit Card,Delivered
+ORD07000957,CUST000144,Kavya Joshi,Academic Book,Books,6,1898.43,2025-12-29,Central,Cash on Delivery,Delivered
+ORD07000958,CUST000033,Diya Singh,Mixer,Home and Kitchen,2,1955.61,2026-07-06,Central,Cash on Delivery,Delivered
+ORD07000959,CUST000101,Arjun Kapoor,Programming Book,Books,2,795.66,2025-03-04,Central,Cash on Delivery,Shipped
+ORD07000960,CUST000205,Saanvi Mehta,Football,Sports,2,1835.04,2025-03-16,Central,Credit Card,Processing
+ORD07000961,CUST000062,Saanvi Verma,Vacuum Cleaner,Home and Kitchen,2,16105.27,2025-08-21,East,UPI,Delivered
+ORD07000962,CUST000069,Ananya Gupta,Vacuum Cleaner,Home and Kitchen,2,11725.7,2025-09-28,North,UPI,Delivered
+ORD07000963,CUST000290,Ira Gupta,Mixer, home and kitchen ,1,6413.1,2026-08-04,West,Debit Card,Processing
+ORD07000964,CUST000287,Riya Kumar,Shoes,Fashion,3,1571.82,2025-09-07,Central,Cash on Delivery,Delivered
+ORD07000965,CUST000297,Krishna Patel,Cookware Set,Home and Kitchen,2,1060.95,2025-01-17,North,Debit Card,Delivered
+ORD07000966,CUST000330,Sai Sharma,Vacuum Cleaner,Home and Kitchen,2,20443.71,2025-04-17,East,Credit Card,Delivered
+ORD07000967,CUST000049,Vivaan Verma,Vacuum Cleaner,Home and Kitchen,1,14571.15,2025-06-03,East,Debit Card,Delivered
+ORD07000968,CUST000191,Ishaan Iyer,Laptop,Electronics,1,65528.1,2026-10-09,West,Credit Card,Delivered
+ORD07000969,CUST000250,Myra Das,Skincare Kit,Beauty,6,3196.22,2026-08-20,East,Net Banking,Shipped
+ORD07000970,CUST000373,Reyansh Malhotra,Laptop,Electronics,3,75719.82,2025-03-25,South,UPI,Shipped
+ORD07000971,CUST000200,Ishaan Iyer,Jacket,Fashion,1,3252.86,2026-10-01,South,UPI,Returned
+ORD07000972,,Saanvi Nair,Headphones,Electronics,5,6899.85,2025-07-04,Central,Debit Card,Delivered
+ORD07000973,CUST000133,Aarav Singh,Yoga Mat,Sports,1,1783.94,2025-04-14,North,UPI,Delivered
+ORD07000974,CUST000077,Myra Gupta,Mixer,Home and Kitchen,4,3269.44,2025-03-21, East ,Net Banking,Delivered
+ORD07000975,CUST000085,Arjun Malhotra,Jacket,Fashion,1,4950.05,2025-05-28,North,Debit Card,Delivered
+ORD07000976,CUST000077,Ira Shah,Vacuum Cleaner,Home and Kitchen,3,21265.12,2025-01-16,West,Cash on Delivery,Shipped
+ORD07000977,CUST000102,Sai Nair,Hair Dryer,Beauty,2,3828.04,2026-02-15,North,UPI,Delivered
+ORD07000978,CUST000037,Saanvi Kapoor,Cricket Bat,Sports,1,1740.6,2026-03-29,South,Credit Card,Delivered
+ORD07000979,CUST000375,Arjun Singh, Jacket ,Fashion,5,5248.95,2025-02-17,Central,Net Banking,Shipped
+ORD07000980,CUST000152,Riya Nair,Smartphone,Electronics,6,55030.93,2026-08-08,Central,Cash on Delivery,Returned
+ORD07000981,CUST000296,Arjun Sharma,Programming Book,Books,-4,1504.46,2026-09-15,South,Credit Card,Delivered
+ORD07000982,CUST000173,Sai Patel,Jacket,Fashion,1,5953.67,2025-02-11,South,UPI,Delivered
+ORD07000983,CUST000136,Priya Iyer,T-Shirt,Fashion,4,1244.82,2026-03-26,Central,Credit Card,Delivered
+ORD07000984,CUST000208,Vihaan Joshi,Mixer,Home and Kitchen,1,5591.35,2026-04-23,West,Credit Card,Delivered
+ORD07000985,CUST000008,Ananya Mehta,Smartphone,Electronics,2,64354.38,2025-05-20,Central,Credit Card,Delivered
+ORD07000986,CUST000312,Saanvi Iyer,Shoes,Fashion,1,2663.64,2025-09-28,West,Net Banking,Cancelled
+ORD07000987,CUST000292,Vivaan Das,Hair Dryer,Beauty,2,2809.04,2025-08-22,South,UPI,Delivered
+ORD07000988,CUST000299,Aadhya Verma,Academic Book,Books,1,551.55,2026-01-14,East,Credit Card,Delivered
+ORD07000989,CUST000012,Ira Malhotra,Jacket,Fashion,1,2056.82,2026-03-22,South,Net Banking,Delivered
+ORD07000990,CUST000145,Arjun Das,Fiction Book,Books,6,895.77,2026-08-31,West,Credit Card,Delivered
+ORD07000991,CUST000124,Krishna Singh,Yoga Mat,Sports,2,434.79,2025-10-25,West,Cash on Delivery,Delivered
+ORD07000992,CUST000283,Riya Sharma,Smartphone,Electronics,4,17385.64,2026-05-10,Central,Cash on Delivery,Delivered
+ORD07000993,CUST000309,Vihaan Verma,Laptop,Electronics,2,73460.71,2025-11-07,South,Cash on Delivery,Delivered
+ORD07000994,CUST000010,Saanvi Malhotra,Skincare Kit,Beauty,-2,1953.93,2026-03-10,Central,Cash on Delivery,Processing
+ORD07000995,CUST000233,Kavya Kapoor,Shoes,Fashion,1,1095.0,2025-01-17,West,Debit Card,Delivered
+ORD07000996,,Ishaan Kumar,Jacket,Fashion,-1,4332.02,2025-09-17,South,Net Banking,Delivered
+ORD07000997,CUST000115,Aarav Kumar,Cookware Set,Home and Kitchen,2,962.46,2026-02-19,South,Cash on Delivery,Shipped
+ORD07000998,CUST000090,Vihaan Kumar,Smartphone,Electronics,1,55039.79,2025-12-24,East,Net Banking,Delivered
+ORD07000999,CUST000097,Ayaan Malhotra,Jacket,FASHION,3,5637.09,2026-01-16,East,Cash on Delivery,Returned
+ORD07001000,CUST000158,Ananya Das,Jeans,Fashion,3,1137.7,2026-08-30,East,UPI,Shipped
+ORD07000001,CUST000057,Sai Malhotra DUPLICATE,Shoes,Fashion,1,3748.64,2026-10-29,North,UPI,Cancelled
+ORD07000002,CUST000321,Ayaan Patel DUPLICATE,Football,Sports,1,598.14,2026-01-07,East,Net Banking,Delivered
+ORD07000003,CUST000231,Aadhya Gupta DUPLICATE,Smartwatch,Electronics,2,15166.21,2025-05-22,North,Debit Card,Delivered
+ORD07000004,CUST000245,Krishna Sharma DUPLICATE,Shoes,Fashion,2,1097.82,2025-09-12,South,Cash on Delivery,Delivered
+ORD07000005,CUST000062,Krishna Verma DUPLICATE,Laptop,Electronics,1,84877.13,2026-06-21,South,Net Banking,Returned

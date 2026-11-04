@@ -1,0 +1,12 @@
+Order_ID,Customer_ID,Customer_Name,Product,Category,Quantity,Unit_Price,Order_Date,Region,Payment_Method,Order_Status
+ORD-EDGE-001,CUST-001,Asha Sharma,Laptop,Electronics,1,55000,2026-01-01,North,UPI,Delivered
+ORD-EDGE-002,,Rahul Verma,Phone,Electronics,2,22000,2026-01-02,South,Credit Card,Delivered
+ORD-EDGE-003,CUST-003,Meera Shah,Shoes,Fashion,-1,2500,2026-01-03,West,UPI,Delivered
+ORD-EDGE-004,CUST-004,Kabir Das,Mixer,Home and Kitchen,2,0,2026-01-04,East,Cash on Delivery,Delivered
+ORD-EDGE-005,CUST-005,Riya Iyer,Book,Books,1,450,not-a-date,Central,Debit Card,Delivered
+ORD-EDGE-006,CUST-006,Dev Patel,Yoga Mat,Sports,2,800,05/01/2026,North,,Shipped
+ORD-EDGE-007,CUST-007,Ira Nair,Perfume, beauty ,1,1800,2026-01-06, South ,UPI,Delivered
+ORD-EDGE-008,CUST-008,Aarav Gupta,Jacket,Fashion,1,3200,2026-01-07,West,UPI,Cancelled
+ORD-EDGE-009,CUST-009,Myra Joshi,Watch,Electronics,1,6500,2026-01-08,East,Credit Card,Returned
+ORD-EDGE-010,CUST-010,Vivaan Mehta,Football,Sports,3,650,2026-01-09,Central,UPI,Delivered
+ORD-EDGE-010,CUST-010,Vivaan Mehta,Football,Sports,3,650,2026-01-09,Central,UPI,Delivered

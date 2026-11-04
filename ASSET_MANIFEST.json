@@ -1,0 +1,47 @@
+[
+  {
+    "path": "README_ASSETS.md",
+    "bytes": 1367,
+    "sha256": "7be6947b494f2ded596f8e6ea5f340afcaa9264d9a570fd811155daa0814479d"
+  },
+  {
+    "path": "data/raw/ecommerce_transactions_50000.csv",
+    "bytes": 5237991,
+    "sha256": "5682f5964851fb3684b4a3ea08c39621ad51ba0b5c45b6a3a27461c756aa1bbc"
+  },
+  {
+    "path": "data/sample/ecommerce_edge_cases.csv",
+    "bytes": 1118,
+    "sha256": "4dfc1d5fb6527f3686fb4616b160e1e167f311cd1cf2f08dea998b7865cb1313"
+  },
+  {
+    "path": "data/sample/ecommerce_transactions_clean_1000.csv",
+    "bytes": 104576,
+    "sha256": "b0bfc328b302ea606652a792f7f7af13c1056632670c726a07ae8826854d663b"
+  },
+  {
+    "path": "data/sample/ecommerce_transactions_test_1000.csv",
+    "bytes": 105069,
+    "sha256": "10edf2fd34e200aee2bcaee88890167a0913db09cac4bb4c070e6afbfa6e68fd"
+  },
+  {
+    "path": "docs/data_dictionary.md",
+    "bytes": 2307,
+    "sha256": "51a20cd286f3c846c9597608adbe387cf45d0e2f3601054bdaeb329433c48e0d"
+  },
+  {
+    "path": "docs/dataset_profile.md",
+    "bytes": 1537,
+    "sha256": "1189a872a804c6b50698357b6f31cb1a8a32c52f73a3a28a679da448e6a43969"
+  },
+  {
+    "path": "docs/local_environment_notes.md",
+    "bytes": 1342,
+    "sha256": "5859d02cd4b0c47cafc3ba481a561c840111b996ab09c84a8cdb62fc4155935b"
+  },
+  {
+    "path": "hive/sql/00_reference_ddl.sql",
+    "bytes": 978,
+    "sha256": "012fb2615575884fbee98f7e861c037d954792cae3923466287d542f53ce1ab8"
+  }
+]
